@@ -1,7 +1,7 @@
 ---
 author: Raghavendra Murthy
 pubDatetime: 2021-11-25
-title: My Favorite C# 10 Features
+title: My Favorite C Sharp 10 Features
 postSlug: my-favorite-csharp10-features
 featured: true
 draft: false
@@ -12,7 +12,7 @@ ogImage: ""
 description:
   Explore the latest C# 10 features, from improved pattern matching to Global using directives. Discover File-scoped namespace declaration, Value Type Records, Lambda expression improvements, and Constant string interpolation. Elevate your coding skills with these powerful enhancements
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_300//v1687518575/raghavendra-murthy-blog/charp_qutet1.png"
-imgAlt: "Test"
+imgAlt: "CSharp"
 ---
 
 C# 10 was launched in November 2021 alongside .NET 6. This C# 10 release incorporates numerous features, which can be found <a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10" target="_blank">here🡕.</a> Having delved into the .Net Conf 2021 and Microsoft's documentation, I have compiled a list of my most Favorite C# 10 features.
