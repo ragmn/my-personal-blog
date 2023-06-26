@@ -12,7 +12,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
   return (
     <li className="my-3">
       {imgSrc ? (
-           <img src={imgSrc} alt={imgAlt} className="mx-auto"></img>
+           <img src={imgSrc} alt={imgAlt} width="200px" className="mx-auto"></img>
         ) : (
           <></>
         )}
