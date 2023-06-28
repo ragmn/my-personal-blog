@@ -16,7 +16,7 @@ export default function CardImage({ href, frontmatter, secHeading = true }: Prop
     <div className="flex flex-col sm:flex-row items-start sm:items-center space-x-4 items-center">
       <div className="flex-shrink-0">
         <img
-          className="w-52 h-48 sm:w-24 sm:h-24"
+          className="w-52 h-48 sm:w-24 sm:h-24" width="200px" 
           src={imgSrc}
           alt={imgAlt}
         />
