@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Ragavendra Murthy.com",
   desc: "Welcome to my personal blog Ragavendra Murthy.com, where I share my learning adventures and talk about my interests! Feel free to explore, share, and learn.",
   title: "Raghavendra Murthy",
-  ogImage: "/assets/DP.jpg",
+  ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_200/v1687983251/raghavendra-murthy-blog/mstsc_yew11n.png",
   lightAndDarkMode: true,
   postPerPage: 8,
 };
