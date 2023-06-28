@@ -10,7 +10,7 @@ tags:
   - csharp
 ogImage: ""
 description:
-  Explore the latest C# 10 features, from improved pattern matching to Global using directives. Discover File-scoped namespace declaration, Value Type Records, Lambda expression improvements, and Constant string interpolation. Elevate your coding skills with these powerful enhancements
+  Explore the latest C# 10 features, from improved pattern matching to Global using directives. Discover File-scoped namespace declaration, Value Type Records, Lambda expression improvements, and Constant string interpolation. Let's Elevate the coding skills with these powerful enhancements.
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_200/v1687518575/raghavendra-murthy-blog/charp_qutet1.png"
 imgAlt: "CSharp"
 ---

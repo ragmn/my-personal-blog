@@ -72,6 +72,6 @@ You must purchase your exam and register for an exam appointment with <a href="h
 ## 8. Finally🎉
 With all the hard work & dedication, I am now part of Sitecore OrderCloud certified professionals!
 
-![Sitecore OrderCloud certification ](https://res.cloudinary.com/djsjtqjsp/image/upload/v1687696241/raghavendra-murthy-blog/1639088259599_scmky6.png)
+**Good luck, and keep Learning!!**
 
-Keep Learning!
+![Sitecore OrderCloud certification ](https://res.cloudinary.com/djsjtqjsp/image/upload/w_400/v1687696241/raghavendra-murthy-blog/1639088259599_scmky6.png)

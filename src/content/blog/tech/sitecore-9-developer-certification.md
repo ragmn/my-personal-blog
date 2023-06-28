@@ -57,6 +57,6 @@ Sitecore official documentation/resources – Here is a list of Sitecore recomme
 ## 7. Conclusion
 Sitecore® Experience Solution Developer Fundamentals Certification Exam 9 can be challenging, and it is. However, with the right study material and the right amount of preparation, you can become a Sitecore certified developer. Fortunately, all the efforts paid at the end & I am now a certified Sitecore developer 🎉🎉🎉
 
-![Sitecore OrderCloud certification ](https://res.cloudinary.com/djsjtqjsp/image/upload/v1687699289/raghavendra-murthy-blog/1637794647628_t2zjfq.png)
+Good luck, and keep Learning!!
 
-Keep Learning!
+![Sitecore OrderCloud certification ](https://res.cloudinary.com/djsjtqjsp/image/upload/w_400/v1687699289/raghavendra-murthy-blog/1637794647628_t2zjfq.png)
