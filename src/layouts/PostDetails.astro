@@ -13,7 +13,16 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const { title, author, description, ogImage, pubDatetime, tags,imgSrc,imgAlt } = post.data;
+const {
+  title,
+  author,
+  description,
+  ogImage,
+  pubDatetime,
+  tags,
+  imgSrc,
+  imgAlt,
+} = post.data;
 
 const { Content } = await post.render();
 
@@ -26,7 +35,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
   <!-- <img src={imgSrc} alt="Your Image" class=""> -->
   <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
     <button
-      class="focus-outline mt-8 mb-2 flex hover:opacity-75"
+      class="focus-outline mb-2 mt-8 flex hover:opacity-75"
       onclick="history.back()"
     >
       <svg xmlns="http://www.w3.org/2000/svg"
@@ -43,9 +52,9 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
           alt={imgAlt}
         /> -->
     <h1 class="post-title">{title}</h1>
-     <Datetime datetime={pubDatetime} size="lg" className="my-2" />   
+    <Datetime datetime={pubDatetime} size="lg" className="my-2" />
     <article id="article" role="article" class="prose mx-auto mt-2 max-w-3xl">
-      {tags.map(tag => <Tag name={slugifyStr(tag)} />)}
+      {tags.map((tag: string) => <Tag name={slugifyStr(tag)} />)}
       <Content />
     </article>
   </main>
