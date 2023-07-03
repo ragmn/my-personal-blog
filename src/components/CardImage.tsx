@@ -1,4 +1,5 @@
 import Datetime from "./Datetime";
+import Readingtime from "./Readingtime";
 import type { BlogFrontmatter } from "@content/_schemas";
 
 export interface Props {
@@ -12,8 +13,15 @@ export default function CardImage({
   frontmatter,
   secHeading = true,
 }: Props) {
-  const { title, pubDatetime, description, imgSrc, imgAlt, categories } =
-    frontmatter;
+  const {
+    title,
+    pubDatetime,
+    description,
+    imgSrc,
+    imgAlt,
+    categories,
+    readingTime,
+  } = frontmatter;
   return (
     <li className="">
       <div className="divide-gray-200 dark:divide-gray-700 divide-y">
@@ -44,6 +52,7 @@ export default function CardImage({
               </a>
               <div className={`flex items-center opacity-80`}>
                 <Datetime datetime={pubDatetime} /> |{" "}
+                <Readingtime readingtime={readingTime} />|{" "}
                 <span className="dark:bg-gray-700 dark:text-green-400 border-green-400 mr-2 rounded border px-2.5 py-0.5 text-xs font-medium font-semibold">
                   {categories}
                 </span>

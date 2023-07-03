@@ -14,6 +14,7 @@ ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_200/v1687983251/ra
 description: "Prepare for the Microsoft Certified HTML5 with JavaScript and CSS3 exam with our expert approach and tips. Boost your chances of success now!"
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_96,h_96/v1687983251/raghavendra-murthy-blog/mstsc_yew11n.png"
 imgAlt: "Microsoft Certified Technology Specialist logo"
+readingTime: "4 Mins"
 ---
 
 ## Table of contents

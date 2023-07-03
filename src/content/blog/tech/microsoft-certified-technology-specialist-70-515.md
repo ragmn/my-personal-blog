@@ -14,6 +14,7 @@ ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_200/v1687983251/ra
 description: "Prepare for MCTS 70-515 exam with expert guidance. Learn web app development with .NET Framework 4, study plan tips, practice exams, and more."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_96,h_96/v1687983251/raghavendra-murthy-blog/mstsc_yew11n.png"
 imgAlt: "Microsoft Certified Technology Specialist logo"
+readingTime: "3 Mins"
 ---
 
 ## Table of contents

@@ -15,6 +15,7 @@ ogImage: ""
 description: "Discover Blazor + SQLite: Learn the essentials and unleash powerful web development with this dynamic duo. Get started now!"
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_96,h_96/v1687551068/raghavendra-murthy-blog/blazor_f3hvam.png"
 imgAlt: "Blazor & SQLite"
+readingTime: "3 Mins"
 ---
 
 ## Table of contents
@@ -66,4 +67,4 @@ Please feel free to refer the <a href="https://github.com/ragmn/BlazorAppSQLiteP
 
 In this proof-of-concept (POC), we have learned the process of setting up a Blazor server application and configuring a SQLite database to be used for individual user Microsoft Identity. The User Identity feature can be extended and customized according to specific requirements, and I plan to document these details in separate upcoming blog posts.
 
-Keep coding!
+**Good luck, and keep Learning!!**
