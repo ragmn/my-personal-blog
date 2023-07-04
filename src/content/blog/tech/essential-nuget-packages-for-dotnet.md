@@ -17,7 +17,7 @@ imgAlt: "essential nuget packages for dotnet"
 readingTime: "4 Mins"
 ---
 
-![essential nuget packages for dotnet](https://res.cloudinary.com/djsjtqjsp/image/upload//q_auto:low/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png)
+![essential nuget packages for dotnet](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png)
 As a senior .NET developer, it's crucial to stay updated with the best NuGet packages available for various functionalities. In this technical blog, we will explore and discuss the top packages for mapping, logging, ORM (Object-Relational Mapping), HTTP clients, validation, mail, and task scheduling functionalities. Let's dive in!
 
 ## Table of contents
