@@ -3,9 +3,10 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://raghavendramurthy.com/",
   author: "Ragavendra Murthy.com",
-  desc: "Welcome to my personal blog Ragavendra Murthy.com, where I share my learning adventures and talk about my interests! Feel free to explore, share, and learn.",
-  title: "Raghavendra Murthy",
-  ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_200/v1687983251/raghavendra-murthy-blog/mstsc_yew11n.png",
+  desc: "Welcome to my personal blog Ragavendra Murthy.com, where I share my learning adventures and talk about my interests, which primarily include web technology, travel, spirituality, yoga, and meditation.",
+  title: "Raghavendra Murthy | Tech Lead | Spiritual Seeker",
+  ogImage:
+    "https://res.cloudinary.com/djsjtqjsp/image/upload/v1688481538/raghavendra-murthy-blog/seo-card_k8tra5.png",
   lightAndDarkMode: true,
   postPerPage: 8,
 };
@@ -25,7 +26,7 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/ragmn",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
-  },  
+  },
   {
     name: "Instagram",
     href: "https://www.instagram.com/ragmn/",
