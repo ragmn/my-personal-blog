@@ -14,7 +14,7 @@ export const blogSchema = z
     description: z.string(),
     imgSrc: z.string().optional(),
     imgAlt: z.string().optional(),
-    readingTime: z.string().optional(),
+    readingTime: z.string().optional().default("3 Mins"),
   })
   .strict();
 

@@ -51,8 +51,8 @@ export default function CardImage({
                 )}
               </a>
               <div className={`flex items-center opacity-80`}>
-                <Datetime datetime={pubDatetime} /> |{" "}
-                <Readingtime readingtime={readingTime} />|{" "}
+                <Datetime datetime={pubDatetime} />
+                <Readingtime readingTime={readingTime} />|{" "}
                 <span className="dark:bg-gray-700 dark:text-green-400 border-green-400 mr-2 rounded border px-2.5 py-0.5 text-xs font-medium font-semibold">
                   {categories}
                 </span>

@@ -1,5 +1,6 @@
 import Datetime from "./Datetime";
 import type { BlogFrontmatter } from "@content/_schemas";
+import Readingtime from "./Readingtime";
 
 export interface Props {
   href?: string;
@@ -8,8 +9,15 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, description, imgSrc, imgAlt, categories } =
-    frontmatter;
+  const {
+    title,
+    pubDatetime,
+    description,
+    imgSrc,
+    imgAlt,
+    categories,
+    readingTime,
+  } = frontmatter;
   return (
     <li className="my-3">
       {imgSrc ? (
@@ -37,7 +45,8 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         )}
       </a>
       <div className={`flex items-center opacity-80`}>
-        <Datetime datetime={pubDatetime} /> |{" "}
+        <Datetime datetime={pubDatetime} />
+        <Readingtime readingTime={readingTime} />|{" "}
         <span className="dark:bg-gray-700 dark:text-green-400 border-green-400 mr-2 rounded border px-2.5 py-0.5 text-xs font-medium font-semibold">
           {categories}
         </span>{" "}

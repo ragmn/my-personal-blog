@@ -1,11 +1,11 @@
 import { LOCALE } from "@config";
 
 export interface Props {
-  readingtime: string;
+  readingTime: string;
   size?: "sm" | "lg";
 }
 
-export default function Datetime({ readingtime, size = "sm" }: Props) {
+export default function Datetime({ readingTime, size = "sm" }: Props) {
   return (
     <>
       |
@@ -30,7 +30,7 @@ export default function Datetime({ readingtime, size = "sm" }: Props) {
         </g>
       </svg>
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
-        {readingtime}
+        {readingTime}
       </span>
     </>
   );

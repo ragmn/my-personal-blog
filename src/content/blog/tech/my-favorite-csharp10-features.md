@@ -3,7 +3,7 @@ author: Raghavendra Murthy
 pubDatetime: 2021-11-25
 title: My Favorite C Sharp 10 Features
 postSlug: my-favorite-csharp10-features
-featured: true
+featured: false
 draft: false
 categories:
   - Tech
