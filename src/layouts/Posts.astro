@@ -31,9 +31,10 @@ let tags = getUniqueTags(allPosts);
 <Layout title={`Posts | ${SITE.title}`}>
   <Header activeNav="posts" />
   <Main pageTitle="Posts" pageDesc="All the articles I've posted.">
-    <ul>
-      {tags.map(tag => <Tag name={tag} size="lg" />)}
-    </ul><br/>
+    <ul class="ring-2 ring-gray-400 ring-offset-2">
+      <p class="text-2xl font-bold">Hash Tags</p>
+      {tags.map(tag => <Tag name={tag} size="sm" />)}
+    </ul><br />
     <ul>
       {
         posts.map(({ data }) => (
@@ -77,12 +78,14 @@ let tags = getUniqueTags(allPosts);
 
 <style>
   .pagination-wrapper {
-    @apply mt-auto mb-8 flex justify-center;
+    @apply mb-8 mt-auto flex justify-center;
   }
   .disabled {
     @apply pointer-events-none select-none opacity-50 hover:text-skin-base group-hover:fill-skin-base;
   }
   .disabled-svg {
     @apply group-hover:!fill-skin-base;
+  }
+  .border {
   }
 </style>
