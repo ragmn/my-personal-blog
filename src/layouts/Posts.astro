@@ -32,7 +32,7 @@ let tags = getUniqueTags(allPosts);
   <Header activeNav="posts" />
   <Main pageTitle="Posts" pageDesc="All the articles I've posted.">
     <ul class="ring-2 ring-gray-400 ring-offset-2">
-      <p class="text-2xl font-bold">Hash Tags</p>
+      <p class="text-2xl font-bold">Tags</p>
       {tags.map(tag => <Tag name={tag} size="sm" />)}
     </ul><br />
     <ul>
