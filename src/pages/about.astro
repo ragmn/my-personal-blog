@@ -12,131 +12,204 @@ const { title, description, meta_title, image, what_i_do } = entry.data;
 
 <Layout>
   <Header activeNav="about" />
-  <br/>
+  <br />
   <main id="main-content">
-  <section class="section Kablammo">
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 items-center">
-      <div class="col-span-1 sm:col-span-1">
-        <img src={image} alt="Your Image" class="w-full">
-      </div>
-      <div class="col-span-1 sm:col-span-2">
-        <h1 set:html={markdownify(title)} class="h3 mb-8" />
-    
-        <div class="content">
-          <Content />
+    <section class="section Kablammo">
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-3">
+        <div class="col-span-1 sm:col-span-1">
+          <img
+            src={image}
+            alt="Your Image"
+            class="xs:mt-16 mt-0 w-full rounded-lg sm:mt-16"
+          />
+        </div>
+        <div class="col-span-1 sm:col-span-2">
+          <h1 set:html={markdownify(title)} class="h3 mb-8" />
+
+          <div class="content">
+            <Content />
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
+    <section class="section">
+      <div class="container max-w-none">
+        <div class="flex items-center justify-center">
+          <div class="lg:max-w-md mx-auto mt-10 w-full space-y-2">
+            <details class="rounded-lg p-4">
+              <summary
+                class="bg-blue-200 cursor-pointer px-4 py-2 text-lg font-semibold"
+              >
+                Please feel free to check out my comprehensive curriculum vitae.</summary
+              >
+              <div class="bg-blue-100">
+                <div class="row gy-4 justify-center">
+                  <div class="mb-5">
+                    <div
+                      class="w-full text-3xl font-bold"
+                      style="text-decoration: underline;"
+                    >
+                      Education
+                    </div>
+                  </div>
 
-  <section class="section ">
-    <div class="container max-w-none">
-      <div class="flex items-center justify-center">
-        <div class="w-full mx-auto mt-10 space-y-2  lg:max-w-md">
-                     <details class="p-4 rounded-lg">
-                         <summary class="font-semibold bg-blue-200 px-4 py-2  text-lg cursor-pointer"> Please feel free to check out my comprehensive curriculum vitae.</summary>
-                         <div class=" bg-blue-100">
-                          <div class="row justify-center gy-4">
-                            <div class="mb-5">
-                              <div class="text-3xl w-full font-bold" style="text-decoration: underline;">Education</div>
-                            </div>
-                          
-                            <div class="time-line-container grid gap-4 mb-10">
-                              <TimeLineElement
-                                title="MS, Computer Software Engineering"
-                                subtitle="[Birla Institute of Technology and Science], [Pilani, India]"
-                              />
-                              <TimeLineElement
-                                title="BCA, Bachelors's in Computer Application"
-                                subtitle="[Surana College], [Bengaluru❤️, India]"
-                              />
-                            </div>
-                          
-                            <div class="mb-5">
-                              <div class="text-3xl w-full font-bold" style="text-decoration: underline;">Experience</div>
-                            </div>
-                          
-                            <div class="time-line-container mb-10">
-                              <TimeLineElement
-                                title="Technical Lead at Dept"
-                                subtitle="From [2018] to Present at [Manchester, UK]">
-                              I am an experienced technical leader with a proven track record of success in CMS implementation projects. 
-                              I have a deep understanding of C#, .NET Core, ASP.NET, and Azure, and I am skilled in leading development teams, implementing best practices, managing Azure cloud services, and implementing CMS technology. I am also an effective mentor, and I have a passion for helping team members reach their full potential.
-                             </TimeLineElement>
-                              <TimeLineElement
-                                title="Technical Lead at Wipro"
-                                subtitle="From [2016] to [2018] at [London, UK] [Boston, USA]">
-                                As a Technical Lead, I managed development teams onshore and offshore for various digital transformation projects for major international clients. I analyzed functional specifications, created technical user stories, and developed bespoke backend solutions. I was responsible for code reviews and maintaining standard programming practices. I technically led a team of software engineers and closely worked with design and architect teams to build technical solutions for various enterprise software systems.
-                    
-                              </TimeLineElement>
-                              <TimeLineElement
-                                title="Senior Software Engineer at Wipro"
-                                subtitle="From [2013] to [2018] at [Bengaluru❤️, India]">
-                                I managed development releases and ensured all user requirements were successfully delivered. I developed various backend integration APIs using the TDD approach. I mentored and led junior backend engineers in the team. I experimented with new .Net/C# releases and created various POCs to upgrade an existing project to the new versions. I designed build pipelines using Octopus/Team City tools. I was responsible for build releases and UAT/Prod defect triage. I documented technical learnings and created an onboarding wiki/guide to help onboard new engineers to the team.
-                    
-                              </TimeLineElement>
-                              <TimeLineElement
-                              title="Software Engineer at Wipro"
-                              subtitle="From [2010] to [2013] at [Bengaluru❤️, India]">
-                              I designed and developed various modules of a web application. I developed a reusable data reader component to read .csv data files from the SAP system. I designed a web application UI framework using HTML/CSS according to the client's standards. I technically coordinated one of the major development releases and ensured that all user requirements were met.
-                            </TimeLineElement>
-                            <TimeLineElement
-                              title="Co-Founder/freelance web developer at Srishti"
-                              subtitle="From [2010] to [2013] at [Bengaluru❤️, India]">
-                              Srishti was founded by a group of friends with a shared vision to design, develop, and deliver intelligent web solutions to small-scale organizations. Our team has a deep understanding of business requirements and we are passionate about using our skills to help our clients achieve their goals.
-                              I was responsible for analyzing business challenges, identifying workflow problems, and designing and developing web-based and backend solutions. I also have experience in designing responsive websites for various marketing needs.
-                            </TimeLineElement>
-                            </div>
-                          
-                            <div class="">
-                              <div class="text-3xl w-full font-bold" style="text-decoration: underline;">Certifications</div>
-                            </div>
-                          <br/>
-                            <ul class="list-disc mb-10" style="margin-left: 12%;">
-                              <li>
-                                <a> Microsoft Certified Professional</a>
-                              </li>
-                              <li>
-                                <a > Microsoft Certified Technology Specialist (MCTS 70-515)</a>
-                              </li>
-                              <li>
-                                <a> Microsoft Certified HTML5 with JavaScript and CSS3 (MCTS 70-480)</a>
-                              </li>
-                              <li>
-                                <a> Sitecore® Experience Solution 9 Developer </a>
-                              </li>
-                              <li>
-                                <a> Sitecore® OrderCloud Certified Developer</a>
-                              </li>
-                              
-                            </ul>
-                          
-                            <div class="">
-                              <div class="text-3xl w-full font-bold" style="text-decoration: underline;">Skills</div>
-                            </div>
-                          
-                            <ul class="list-disc md:columns-5 columns-2"  style="margin-left: 12%;">
-                              <li>Technical Management</li>
-                              <li>Technical Analysys</li>
-                              <li>dotnet</li>
-                              <li>C#</li>
-                              <li>webAPI</li>
-                              <li>Azure</li>
-                              <li>CMS</li> 
-                              <li>Sitecore</li>
-                              <li>Contentful</li>                                                           
-                            </ul>
-                          </div>
-                         </div>
-                     </details>
-                 </div>
-     </div>
-    
+                  <div class="time-line-container mb-10 grid gap-4">
+                    <TimeLineElement
+                      title="MS, Computer Software Engineering"
+                      subtitle="[Birla Institute of Technology and Science], [Pilani, India]"
+                    />
+                    <TimeLineElement
+                      title="BCA, Bachelors's in Computer Application"
+                      subtitle="[Surana College], [Bengaluru❤️, India]"
+                    />
+                  </div>
+
+                  <div class="mb-5">
+                    <div
+                      class="w-full text-3xl font-bold"
+                      style="text-decoration: underline;"
+                    >
+                      Experience
+                    </div>
+                  </div>
+
+                  <div class="time-line-container mb-10">
+                    <TimeLineElement
+                      title="Technical Lead at Dept"
+                      subtitle="From [2018] to Present at [Manchester, UK]"
+                    >
+                      I am an experienced technical leader with a proven track
+                      record of success in CMS implementation projects. I have a
+                      deep understanding of C#, .NET Core, ASP.NET, and Azure,
+                      and I am skilled in leading development teams,
+                      implementing best practices, managing Azure cloud
+                      services, and implementing CMS technology. I am also an
+                      effective mentor, and I have a passion for helping team
+                      members reach their full potential.
+                    </TimeLineElement>
+                    <TimeLineElement
+                      title="Technical Lead at Wipro"
+                      subtitle="From [2016] to [2018] at [London, UK] [Boston, USA]"
+                    >
+                      As a Technical Lead, I managed development teams onshore
+                      and offshore for various digital transformation projects
+                      for major international clients. I analyzed functional
+                      specifications, created technical user stories, and
+                      developed bespoke backend solutions. I was responsible for
+                      code reviews and maintaining standard programming
+                      practices. I technically led a team of software engineers
+                      and closely worked with design and architect teams to
+                      build technical solutions for various enterprise software
+                      systems.
+                    </TimeLineElement>
+                    <TimeLineElement
+                      title="Senior Software Engineer at Wipro"
+                      subtitle="From [2013] to [2018] at [Bengaluru❤️, India]"
+                    >
+                      I managed development releases and ensured all user
+                      requirements were successfully delivered. I developed
+                      various backend integration APIs using the TDD approach. I
+                      mentored and led junior backend engineers in the team. I
+                      experimented with new .Net/C# releases and created various
+                      POCs to upgrade an existing project to the new versions. I
+                      designed build pipelines using Octopus/Team City tools. I
+                      was responsible for build releases and UAT/Prod defect
+                      triage. I documented technical learnings and created an
+                      onboarding wiki/guide to help onboard new engineers to the
+                      team.
+                    </TimeLineElement>
+                    <TimeLineElement
+                      title="Software Engineer at Wipro"
+                      subtitle="From [2010] to [2013] at [Bengaluru❤️, India]"
+                    >
+                      I designed and developed various modules of a web
+                      application. I developed a reusable data reader component
+                      to read .csv data files from the SAP system. I designed a
+                      web application UI framework using HTML/CSS according to
+                      the client's standards. I technically coordinated one of
+                      the major development releases and ensured that all user
+                      requirements were met.
+                    </TimeLineElement>
+                    <TimeLineElement
+                      title="Co-Founder/freelance web developer at Srishti"
+                      subtitle="From [2010] to [2013] at [Bengaluru❤️, India]"
+                    >
+                      Srishti was founded by a group of friends with a shared
+                      vision to design, develop, and deliver intelligent web
+                      solutions to small-scale organizations. Our team has a
+                      deep understanding of business requirements and we are
+                      passionate about using our skills to help our clients
+                      achieve their goals. I was responsible for analyzing
+                      business challenges, identifying workflow problems, and
+                      designing and developing web-based and backend solutions.
+                      I also have experience in designing responsive websites
+                      for various marketing needs.
+                    </TimeLineElement>
+                  </div>
+
+                  <div class="">
+                    <div
+                      class="w-full text-3xl font-bold"
+                      style="text-decoration: underline;"
+                    >
+                      Certifications
+                    </div>
+                  </div>
+                  <br />
+                  <ul class="mb-10 list-disc" style="margin-left: 12%;">
+                    <li>
+                      <a> Microsoft Certified Professional</a>
+                    </li>
+                    <li>
+                      <a>
+                        Microsoft Certified Technology Specialist (MCTS 70-515)</a
+                      >
+                    </li>
+                    <li>
+                      <a>
+                        Microsoft Certified HTML5 with JavaScript and CSS3 (MCTS
+                        70-480)</a
+                      >
+                    </li>
+                    <li>
+                      <a> Sitecore® Experience Solution 9 Developer</a>
+                    </li>
+                    <li>
+                      <a> Sitecore® OrderCloud Certified Developer</a>
+                    </li>
+                  </ul>
+
+                  <div class="">
+                    <div
+                      class="w-full text-3xl font-bold"
+                      style="text-decoration: underline;"
+                    >
+                      Skills
+                    </div>
+                  </div>
+
+                  <ul
+                    class="md:columns-5 list-disc columns-2"
+                    style="margin-left: 12%;"
+                  >
+                    <li>Technical Management</li>
+                    <li>Technical Analysys</li>
+                    <li>dotnet</li>
+                    <li>C#</li>
+                    <li>webAPI</li>
+                    <li>Azure</li>
+                    <li>CMS</li>
+                    <li>Sitecore</li>
+                    <li>Contentful</li>
+                  </ul>
+                </div>
+              </div>
+            </details>
+          </div>
+        </div>
       </div>
       <!-- <h3 class="page-heading mb-20">{what_i_do.title}</h3> -->
-
-      
-  </section>
+    </section>
+  </main>
 </Layout>
-
