@@ -23,45 +23,35 @@ export default function CardImage({
     readingTime,
   } = frontmatter;
   return (
-    <li className="">
-      <div className="divide-gray-200 dark:divide-gray-700 divide-y">
-        <div className="pb-3 sm:pb-4">
-          <div className="flex flex-col items-start items-center space-x-4 sm:flex-row sm:items-center">
-            <div className="flex-shrink-0">
-              <img
-                className="h-28 w-28 sm:h-24 sm:w-24"
-                width="200px"
-                src={imgSrc}
-                alt={imgAlt}
-              />
-            </div>
-            <div className="">
-              <a
-                href={href}
-                className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
-              >
-                {secHeading ? (
-                  <h2 className="text-lg font-medium decoration-dashed hover:underline">
-                    {title}
-                  </h2>
-                ) : (
-                  <h3 className="text-lg font-medium decoration-dashed hover:underline">
-                    {title}
-                  </h3>
-                )}
-              </a>
-              <div className={`flex items-center opacity-80`}>
-                <Datetime datetime={pubDatetime} />
-                <Readingtime readingTime={readingTime} />|{" "}
-                <span className="dark:bg-gray-700 dark:text-green-400 border-green-400 mr-2 rounded border px-2.5 py-0.5 text-xs font-medium font-semibold">
-                  {categories}
-                </span>
-              </div>
-              {description}
-            </div>
-          </div>
+    // <li className="">
+    <div className="bg-white dark:divide-gray-700 flex flex-col justify-between rounded-lg p-5 shadow-lg">
+      <img className="h-44 w-full object-cover" src={imgSrc} alt={imgAlt} />
+      <div className="p-4">
+        <a
+          href={href}
+          className="block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
+        >
+          {secHeading ? (
+            <h2 className="text-lg font-medium decoration-dashed hover:underline">
+              {title}
+            </h2>
+          ) : (
+            <h3 className="text-lg font-medium decoration-dashed hover:underline">
+              {title}
+            </h3>
+          )}
+        </a>
+        <div className="mt-2 flex items-center opacity-80">
+          <Datetime datetime={pubDatetime} />
+          <Readingtime readingTime={readingTime} />|{" "}
+          <span className="dark:bg-gray-700 dark:text-green-400 border-green-400 mr-2 rounded border px-2.5 py-0.5 text-xs font-medium font-semibold">
+            {categories}
+          </span>
         </div>
+        <p className="mt-2">{description}</p>
       </div>
-    </li>
+    </div>
+
+    // </li>
   );
 }
