@@ -12,7 +12,7 @@ tags:
   - certification
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1687698435/raghavendra-murthy-blog/sitecore-logo_zlgm7b.jpg"
 description: "Discover essential tips and resources to ace the Sitecore® 9 Developer certification exam. Level up your skills and boost your career prospects!"
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_96,h_96/v1687698435/raghavendra-murthy-blog/sitecore-logo_zlgm7b.jpg"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_auto:100:300/v1687698435/raghavendra-murthy-blog/sitecore-logo_zlgm7b.jpg"
 imgAlt: "Sitecore® Certified Developer logo"
 readingTime: "3 Mins"
 ---

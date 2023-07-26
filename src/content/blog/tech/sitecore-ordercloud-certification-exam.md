@@ -13,7 +13,7 @@ tags:
   - ordercloud
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_500,h_100/v1687696609/raghavendra-murthy-blog/OrderCloud_dmkdov.png"
 description: "Learn key strategies, tips, and best practices to ace the exam and demonstrate your expertise in OrderCloud, Sitecore's powerful B2B commerce platform."
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_96,h_96/v1687696609/raghavendra-murthy-blog/OrderCloud_dmkdov.png"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_auto:100:200/v1687696609/raghavendra-murthy-blog/OrderCloud_dmkdov.png"
 imgAlt: "Sitecore OrderCloud Certification"
 readingTime: "3 Mins"
 ---
