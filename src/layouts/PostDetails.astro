@@ -36,7 +36,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
 <Layout title={title} author={author} description={description} ogImage={ogUrl}>
   <Header />
   <!-- <img src={imgSrc} alt="Your Image" class=""> -->
-  <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
+  <div class="mx-auto flex w-full max-w-6xl justify-start px-2">
     <button
       class="focus-outline mb-2 mt-8 flex hover:opacity-75"
       onclick="history.back()"
@@ -62,7 +62,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
     >
       {categories}
     </span>
-    <article id="article" role="article" class="prose mx-auto mt-2 max-w-3xl">
+    <article id="article" role="article" class="prose mx-auto mt-2 max-w-6xl">
       {tags.map((tag: string) => <Tag name={slugifyStr(tag)} />)}
       <Content />
     </article>
@@ -72,7 +72,7 @@ const ogUrl = new URL(ogImage ? ogImage : `${title}.png`, Astro.url.origin)
 
 <style>
   main {
-    @apply mx-auto w-full max-w-3xl px-4 pb-12;
+    @apply mx-auto w-full max-w-6xl px-4 pb-12;
   }
   .post-title {
     @apply text-2xl font-semibold text-skin-accent;

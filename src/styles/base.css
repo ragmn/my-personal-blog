@@ -31,6 +31,7 @@
   body {
     @apply flex min-h-screen flex-col bg-skin-fill font-mono text-skin-base 
     selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
+    font-size: large;
   }
   section,
   footer {
