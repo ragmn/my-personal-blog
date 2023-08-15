@@ -23,7 +23,7 @@ export default function CardImage({
     readingTime,
   } = frontmatter;
   return (
-    <div className="bg-white dark:divide-gray-700 mb-4 flex flex-col justify-between rounded-lg p-6 shadow hover:shadow-lg">
+    <div className="bg-white dark:divide-gray-700 mb-4 flex flex-col justify-between rounded-lg shadow hover:shadow-lg sm:p-6">
       <div className="flex flex-col p-4 sm:flex-row">
         <img
           src={imgSrc?.replace("{value}", "q_auto,c_thumb,w_200")}
