@@ -12,7 +12,7 @@ tags:
   - nuget
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
 description: "Essential NuGet Packages to significantly enhance and boost your productivity in dotnet development. Unlock the full potential of your projects with these must-have packages that provide a wide range of powerful features and functionalities."
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_auto:100:300/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
 imgAlt: "essential nuget packages for dotnet"
 readingTime: "4 Mins"
 ---

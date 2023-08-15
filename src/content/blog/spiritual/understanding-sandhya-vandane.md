@@ -4,7 +4,7 @@ pubDatetime: 2023-07-13T15:22:00Z
 title: "Understanding the basic process of Sandhya Vandanam: A Comprehensive Guide on its Importance and Relevance for Your Spiritual Journey."
 postSlug: understanding-sandhya-vandanam
 featured: false
-draft: false
+draft: true
 tags:
   - docs
 ogImage: ""
@@ -62,8 +62,8 @@ title: The title of the post
 author: your name
 pubDatetime: 2022-09-21T05:17:19Z
 postSlug: the-title-of-the-post
-featured: true
-draft: false
+featured: false
+draft: true
 tags:
   - some
   - example

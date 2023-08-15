@@ -90,21 +90,21 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
     <section id="recent-posts">
       <h2 class="mb-4">Recent Posts</h2>
-      <div class="grid grid-cols-1 gap-4 sm:grid-cols-3">
-        <!-- <ul> -->
-        {
-          sortedPosts.map(
-            ({ data }, index) =>
-              index < 8 && (
-                <CardImage
-                  href={`/posts/${slugify(data)}`}
-                  frontmatter={data}
-                  secHeading={false}
-                />
-              )
-          )
-        }
-      </div>
+      <!-- <div class="grid grid-cols-1 gap-4 sm:grid-cols-3"> -->
+      <!-- <ul> -->
+      {
+        sortedPosts.map(
+          ({ data }, index) =>
+            index < 8 && (
+              <CardImage
+                href={`/posts/${slugify(data)}`}
+                frontmatter={data}
+                secHeading={false}
+              />
+            )
+        )
+      }
+      <!-- </div> -->
       <div class="all-posts-btn-wrapper">
         <LinkButton href="/posts">
           All Posts

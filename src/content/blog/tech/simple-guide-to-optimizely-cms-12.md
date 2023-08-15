@@ -11,9 +11,9 @@ tags:
   - dotnet
   - optimizely
   - cms
-ogImage: "https://seekvectorlogo.com/wp-content/uploads/2021/12/optimizely-vector-logo-2021.png"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1692111971/raghavendra-murthy-blog/optimizely-vector-logo-2021_ufk1de.png"
 description: "This step-by-step guide provides you with all the essential information and resources you need to seamlessly navigate the powerful world of Optimizely CMS 12"
-imgSrc: "https://seekvectorlogo.com/wp-content/uploads/2021/12/optimizely-vector-logo-2021.png"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692111971/raghavendra-murthy-blog/optimizely-vector-logo-2021_ufk1de.png"
 imgAlt: "optimizely cms"
 readingTime: "3 Mins"
 ---

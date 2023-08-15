@@ -13,7 +13,7 @@ tags:
   - SQLite
 ogImage: ""
 description: "Discover Blazor + SQLite: Learn the essentials and unleash powerful web development with this dynamic duo. Get started now!"
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_auto:100:300/v1687551068/raghavendra-murthy-blog/blazor_f3hvam.png"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1687551068/raghavendra-murthy-blog/blazor_f3hvam.png"
 imgAlt: "Blazor & SQLite"
 readingTime: "3 Mins"
 ---

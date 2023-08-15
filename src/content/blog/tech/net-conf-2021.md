@@ -11,7 +11,7 @@ tags:
   - dotnet
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1687698435/raghavendra-murthy-blog/sitecore-logo_zlgm7b.jpg"
 description: "Key Takeaways of .Net Conf 2021"
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_auto:100:300/v1687699809/raghavendra-murthy-blog/world-of-dotnet_e0cmme.svg"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692113656/raghavendra-murthy-blog/4_eixhvx.png"
 imgAlt: "Sitecore® Certified Developer logo"
 readingTime: "2 Mins"
 ---
