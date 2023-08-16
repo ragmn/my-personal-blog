@@ -1,14 +1,20 @@
 ---
-author: Sat Naing
-pubDatetime: 2023-07-13T15:22:00Z
+author: Raghavendra Murthy
+pubDatetime: 2023-03-20
 title: "Understanding the basic process of Sandhya Vandanam: A Comprehensive Guide on its Importance and Relevance for Your Spiritual Journey."
 postSlug: understanding-sandhya-vandanam
 featured: false
-draft: true
+draft: false
+categories:
+  - Others
 tags:
-  - docs
-ogImage: ""
+  - Sandhyavandhane
+  - sanskrit
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
 description: "Understanding the basic process of Sandhya Vandanam: A Comprehensive Guide on its Importance and Relevance for Your Spiritual Journey."
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
+imgAlt: "essential nuget packages for dotnet"
+readingTime: "4 Mins"
 ---
 
 ## Table of contents
@@ -18,19 +24,29 @@ description: "Understanding the basic process of Sandhya Vandanam: A Comprehensi
 The word "sandhya" means "twilight" in Sanskrit. "Vandanam" means "salutation" or "worship." So, sandhyavandanam literally means "salutation to the twilight." However, it is also used to refer to the prayers that are done during dawn and dusk.
 Sandhya Vandanam is an ancient Hindu ritual performed by followers of vedic traditions. It holds immense spiritual significance and involves offering prayers and salutations to the divine during the transition periods of the day. This post aims to explore the essence of Sandhya Vandanam, its importance, and provide a simple meaning on the mantras chanted during this ritual.
 
-Here is the list of frontmatter property for each post.
-
-| Practice Name     | Description                                                                     | Remark                                        |
-| ----------------- | ------------------------------------------------------------------------------- | --------------------------------------------- |
-| **_title_**       | Title of the post. (h1)                                                         | required<sup>\*</sup>                         |
-| **_description_** | Description of the post. Used in post excerpt and site description of the post. | required<sup>\*</sup>                         |
-| **_pubDatetime_** | Published datetime in ISO 8601 format.                                          | required<sup>\*</sup>                         |
-| **_author_**      | Author of the post.                                                             | default = SITE.author                         |
-| **_postSlug_**    | Slug for the post. Will automatically be slugified.                             | default = slugified title                     |
-| **_featured_**    | Whether or not display this post in featured section of home page               | default = false                               |
-| **_draft_**       | Mark this post 'unpublished'.                                                   | default = false                               |
-| **_tags_**        | Related keywords for this post. Written in array yaml format.                   | default = others                              |
-| **_ogImage_**     | OG image of the post. Useful for social media sharing and SEO.                  | default = SITE.ogImage or generated SVG image |
+| Process                      | Description                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Achamana**                 | Purification ritual involving sipping water, cleansing body by touching various parts and chanting 24 names of lord Vishnu to prepare for worship                                                                                                                                            |
+| **Pranayama**                | Controlled breathing exercises to regulate vital energy (prana) and focus the mind by chanting Gayatri mantra                                                                                                                                                                                |
+| **Sankalpa**                 | A heartfelt vow or intention declared before starting the ritual, aligning actions with purpose                                                                                                                                                                                              |
+| **Marjana**                  | Process of purifying oneself by Sprinkling water and praising the divine power of water                                                                                                                                                                                                      |
+| **Mantrachanam**             | Recitation of specific mantras seeking protection from the divine forces represented by Surya, Manu, and the Lords of anger process & to remove sins                                                                                                                                         |
+| **Dvitiya Marjanam**         | Secondary cleansing ritual reinforcing purity by sprinkling water and praising the divine power of water                                                                                                                                                                                     |
+| **Aghamarshana**             | Ritualistic cleansing of sins and impurities using purifying power of water to wash over me & seeking forgiveness                                                                                                                                                                            |
+| **Arghya Pradhana**          | A standing ritual is performed, with water being offered to the sun as an expression of respect and gratitude, while the Gayatri mantra is chanted - three times.                                                                                                                            |
+| **Tarpana**                  | Offering water with mantras to ancestors, paying homage and seeking their blessings                                                                                                                                                                                                          |
+| **Bhootochhatanam**          | Using hand gestures and mantras, you create a protective circle around yourself. It's like making an invisible shield from negative energies.                                                                                                                                                |
+| **Aasanam**                  | Sitting posture, establishing stability and comfort for meditation.                                                                                                                                                                                                                          |
+| **Gayatri Avahana Vishesha** | Invoking the Gayatri mantra, symbolizing divine universal wisdom and illumination.                                                                                                                                                                                                           |
+| **Karanyas**                 | Touching specific body parts while reciting mantras to invoke divine energies.                                                                                                                                                                                                               |
+| **Anganyas**                 | Similar to Karanyas, invoking deities through touch on different body parts.                                                                                                                                                                                                                 |
+| **Aarahanam**                | The practitioner seeks the presence of the goddess and inviting deities to reside in the heart and mind, establishing a connection while singing, acknowledging her as Gayatri.                                                                                                              |
+| **Dhyanam**                  | The meditation involves visualization of different aspects of this form, attributing specific characteristics to different body parts and deities. The mantra, with twenty-four syllables, including references to Gayatri, Savitri, and Saraswati, is recited to please Lakshmi Narayana.   |
+| **Gayatri Japa**             | Repetition of the Gayatri mantra, seeking spiritual insight and transformation.                                                                                                                                                                                                              |
+| **Sandhyapostana**           | Invocations to Mitra, praising him as a listener and supporter of truth, and acknowledges his role in sustaining the world                                                                                                                                                                   |
+| **Dikku Namaskara**          | Salutations to the cardinal directions - East, South, West, North, East-Sky (up), East-Earth (down), East-Inner (oneself) by acknowledging divine presence everywhere.                                                                                                                       |
+| **Gayatri Dwasanam**         | Acknowledging the structure and composition of the Gayatri mantra and also seeking blessings and auspiciousness.                                                                                                                                                                             |
+| **Japastala Prokshanam**     | Sprinkling water while chanting mantra, purifying the space and mind & Invoke blessings from the deity Savita for prosperity and positive experiences. Also, In case of errors during practice, the practitioner seeks forgiveness by chanting the names 'Achyuta,' 'Ananta,' and 'Govinda.' |
 
 Only `title`, `description` and `pubDatetime` fields in frontmatter must be specified.
 
@@ -63,7 +79,7 @@ author: your name
 pubDatetime: 2022-09-21T05:17:19Z
 postSlug: the-title-of-the-post
 featured: false
-draft: true
+draft: false
 tags:
   - some
   - example
@@ -98,6 +114,30 @@ Here are some recommendations, tips & ticks for creating new posts in AstroPaper
 There's one thing to note about headings. The AstroPaper blog posts use title (title in the frontmatter) as the main heading of the post. Therefore, the rest of the heading in the post should be using h2 \~ h6.
 
 This rule is not mandatory, but highly recommended for visual, accessibility and SEO purposes.
+
+| Process                  | Description                                                                                                                                                                                                                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Achamana                 | Purification ritual involving sipping water, cleansing body by touching various parts by chanting 24 names of lord Vishnu with his to prepare for worship                                                                                                                                  |
+| Pranayama                | Controlled breathing exercises to regulate vital energy (prana) and focus the mind by chanting Gayatri mantra                                                                                                                                                                              |
+| Sankalpa                 | A heartfelt vow or intention declared before starting the ritual, aligning actions with purpose                                                                                                                                                                                            |
+| Marjana                  | Process of purifying oneself by Sprinkling water and praising the divine power of water                                                                                                                                                                                                    |
+| Mantrachanam             | Recitation of specific mantras seeking protection from the divine forces represented by Surya, Manu, and the Lords of anger process & to remove sins                                                                                                                                       |
+| Dvitiya Marjanam         | Secondary cleansing ritual reinforcing purity by sprinkling water and praising the divine power of water                                                                                                                                                                                   |
+| Aghamarshana             | Ritualistic cleansing of sins and impurities using purifying power of water to wash over me & seeking forgiveness                                                                                                                                                                          |
+| Arghya Pradhana          | A standing ritual is performed, with water being offered to the sun as an expression of respect and gratitude, while the Gayatri mantra is chanted - three times.                                                                                                                          |
+| Tarpana                  | Offering water with mantras to ancestors, paying homage and seeking their blessings                                                                                                                                                                                                        |
+| Bhootochhatanam          | Using hand gestures and mantras, you create a protective circle around yourself. It's like making an invisible shield from negative energies.                                                                                                                                              |
+| Aasanam                  | Sitting posture, establishing stability and comfort for meditation.                                                                                                                                                                                                                        |
+| Gayatri Avahana Vishesha | Invoking the Gayatri mantra, symbolizing divine universal wisdom and illumination.                                                                                                                                                                                                         |
+| Karanyas                 | Touching specific body parts while reciting mantras to invoke divine energies.                                                                                                                                                                                                             |
+| Anganyas                 | Similar to Karanyas, invoking deities through touch on different body parts.                                                                                                                                                                                                               |
+| Aarahanam                | The practitioner seeks the presence of the goddess and inviting deities to reside in the heart and mind, establishing a connection while singing, acknowledging her as Gayatri.                                                                                                            |
+| Dhyanam                  | The meditation involves visualization of different aspects of this form, attributing specific characteristics to different body parts and deities. The mantra, with twenty-four syllables, including references to Gayatri, Savitri, and Saraswati, is recited to please Lakshmi Narayana. |
+| Gayatri Japa             | Repetition of the Gayatri mantra, seeking spiritual insight and transformation.                                                                                                                                                                                                            |
+| Sandhyapostana           | Invocations to Mitra, praising him as a listener and supporter of truth, and acknowledges his role in sustaining the world                                                                                                                                                                 |
+| Dikku Namaskara          | Salutations to the cardinal directions - East, South, West, North, East-Sky (up), East-Earth (down), East-Inner (oneself) by acknowledging divine presence everywhere.                                                                                                                     |
+| Gayatri Dwasanam         | Acknowledging the structure and composition of the Gayatri mantra and also seeking blessings and auspiciousness.                                                                                                                                                                           |
+| Gayatri Dwasanam         | Invokes blessings from the deity Savita for prosperity and positive experiences. Also, In case of errors during practice, the practitioner seeks forgiveness by chanting the names 'Achyuta,' 'Ananta,' and 'Govinda.'                                                                     |
 
 ## Bonus
 
