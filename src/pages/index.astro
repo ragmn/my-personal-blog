@@ -75,7 +75,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             <h2>Featured</h2>
             <ul>
               {featuredPosts.map(({ data }) => (
-                <Card
+                <CardImage
                   href={`/posts/${slugify(data)}`}
                   frontmatter={data}
                   secHeading={false}
