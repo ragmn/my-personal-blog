@@ -14,7 +14,7 @@ ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1692373327/raghaven
 description: "Understanding the basic process of Sandhya Vandanam & what are its significance: A Comprehensive Guide on its Importance and Relevance for Your Spiritual Journey."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692373327/raghavendra-murthy-blog/s1_xlqoq4.png"
 imgAlt: "essential nuget packages for dotnet"
-readingTime: "4 Mins"
+readingTime: "20 Mins"
 ---
 
 ![essential nuget packages for dotnet](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto,c_fill,g_auto,h_250,w_1000/v1692373327/raghavendra-murthy-blog/s1_xlqoq4.png)
