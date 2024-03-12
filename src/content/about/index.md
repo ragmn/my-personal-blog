@@ -1,5 +1,5 @@
 ---
-title: "Hi there! I'm **Raghavendra Murthy :)**"
+title: "Hi there, I'm **Raghavendra Murthy** - In short, you can call me Raghav/Raghu."
 meta_title: "About"
 image: "/assets/dp.png"
 draft: false
