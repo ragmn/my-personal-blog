@@ -11,9 +11,9 @@ tags:
   - travel
   - belgium
   - bruges
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1709676621/raghavendra-murthy-blog/travel/ibiza/IMG_7624_zx8fvw.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
 description: "Join me on a delectable 2-day adventure through Belgium's capital city of Brussels and the enchanting medieval town of Bruges. From indulging in mouthwatering Belgian chocolates to savoring crispy waffles and frothy beers, this journey promises to delight your taste buds and captivate your senses. Get ready for a sweet escape into the heart of Belgium's culinary and cultural treasures!"
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1709676621/raghavendra-murthy-blog/travel/ibiza/IMG_7624_zx8fvw.jpg"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
 imgAlt: "ibiza"
 readingTime: "2 Mins"
 ---
@@ -23,9 +23,6 @@ readingTime: "2 Mins"
 #
 
 Join me on a delectable 2-day adventure through Belgium's capital city of Brussels and the enchanting medieval town of Bruges. From indulging in mouthwatering Belgian chocolates to savoring crispy waffles and frothy beers, this journey promises to delight your taste buds and captivate your senses. Get ready for a sweet escape into the heart of Belgium's culinary and cultural treasures!
-**Title: A Belgian Adventure: Exploring Brussels and Bruges in Two Days**
-
-Hey there, fellow travel enthusiasts! Join me on a whirlwind 2-day adventure through the heart of Belgium as we explore the charming cities of Brussels and Bruges. From mouthwatering chocolates to picturesque canals, this journey promises to be a treat for all your senses. Let's get started!
 
 **Day 1: Discovering Brussels**
 
