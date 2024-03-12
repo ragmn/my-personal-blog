@@ -16,7 +16,7 @@ let categories = getUniqueCategories(posts);
 ---
 
 <Layout title={`Categories | ${SITE.title}`}>
-  <Header activeNav="tags" />
+  <Header activeNav="categories" />
   <Main pageTitle="Categories" pageDesc="All the categories used in posts.">
     <ul>
       {categories.map(category => <Category name={category} size="lg" />)}
