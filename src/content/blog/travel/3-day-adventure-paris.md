@@ -14,7 +14,7 @@ tags:
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
 description: "Welcome to the enchanting city of Paris! From its iconic landmarks to its charming streets, Paris has captivated travelers for centuries. Whether you're a first-time visitor or a seasoned explorer, this travel blog will guide you through the best of the City of Lights and Love. So grab your beret, sip some café au lait, and let's embark on an unforgettable adventure."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/c_scale,h_200/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
-imgAlt: "Bonjour Paris"
+imgAlt: "Paris"
 readingTime: "2 Mins"
 ---
 
