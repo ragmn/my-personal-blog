@@ -12,7 +12,7 @@ tags:
   - india
   - sar-pass
   - himalayas
-ogImage: "hhttps://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710368894/raghavendra-murthy-blog/travel/india/DSC01782_qmkqdj.jpg"
+ogImage: "hhttps://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710368894/raghavendra-murthy-blog/travel/india/DSC01782_qmkqdj.jpg"
 description: "Join me on an exhilarating journey through the Himalayas as I conquer SAR Pass with Himalaya Expeditions. From the lush valleys of Kasol to the breathtaking vistas at the summit, experience the thrill of trekking in one of the world's most iconic mountain ranges."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710368894/raghavendra-murthy-blog/travel/india/DSC01782_qmkqdj.jpg"
 imgAlt: "himalayas"
@@ -20,7 +20,7 @@ readingTime: "2 Mins"
 ---
 
 Join me on an exhilarating journey through the Himalayas as I conquer SAR Pass with Himalaya Expeditions. From the lush valleys of Kasol to the breathtaking vistas at the summit, experience the thrill of trekking in one of the world's most iconic mountain ranges.
-![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710369405/raghavendra-murthy-blog/travel/india/DSC01830_u2hzbg.jpg)
+![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710369405/raghavendra-murthy-blog/travel/india/DSC01830_u2hzbg.jpg)
 
 As a passionate hobby traveler and travel blogger, I had explored various destinations around the world, but the Himalayas had always been a dream for me. The towering peaks, serene landscapes, and the mystique surrounding these majestic mountains beckoned me to embark on a new adventure. Finally, the day came when I decided to take on the challenge of my first Himalayan hike – the SAR Pass.
 
@@ -35,7 +35,7 @@ We began our journey with a scenic drive from Manali to Kasol, a picturesque vil
 Day 3: Kasol to Grahan
 Our hike officially started as we made our way from Kasol to the remote village of Grahan. The trail was challenging but incredibly rewarding. We passed through dense forests, crossed gushing streams, and encountered local shepherds and their livestock. Our guide Raj was a wealth of knowledge, sharing insights about the flora and fauna of the region. We stayed in a cozy homestay in Grahan, where we were treated to delicious Himachali cuisine.
 
-![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710368925/raghavendra-murthy-blog/travel/india/DSC01769_ccn27e.jpg)
+![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710368925/raghavendra-murthy-blog/travel/india/DSC01769_ccn27e.jpg)
 
 Day 4: Grahan to Min Thach
 The journey continued as we ascended higher into the mountains. The landscapes became more dramatic, with snow-capped peaks in the distance. We reached Min Thach, a high-altitude campsite, where Himalaya Expeditions had set up comfortable tents. The evening was spent around a bonfire, sharing stories with fellow trekkers and gazing at the star-studded Himalayan sky.
@@ -45,11 +45,11 @@ The most challenging part of the trek awaited us as we climbed towards the SAR P
 
 Day 6: SAR Pass Summit and Biskeri Thach
 The day we had all been waiting for had arrived. We started early to make our way to the summit of SAR Pass. The ascent was demanding, but as we stood at the top, gazing at the panoramic views of the Himalayas, it was all worth it. We descended to Biskeri Thach, another picturesque campsite, where we celebrated our achievement with a sense of accomplishment and gratitude.
-![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710368894/raghavendra-murthy-blog/travel/india/DSC01782_qmkqdj.jpg)
+![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710368894/raghavendra-murthy-blog/travel/india/DSC01782_qmkqdj.jpg)
 
 Day 7: Biskeri Thach to Barshaini
 Our descent continued as we made our way to Barshaini. The lush meadows, dense forests, and the gurgling Parvati River accompanied us on our journey. We arrived in Barshaini, where Himalaya Expeditions had arranged comfortable lodgings for our last night in the mountains.
-![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710369051/raghavendra-murthy-blog/travel/india/DSC01826_shjayy.jpg)
+![himalayas](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710369051/raghavendra-murthy-blog/travel/india/DSC01826_shjayy.jpg)
 
 Day 8: Return to Manali
 As we bid farewell to the Himalayas, we felt a deep connection with the mountains and the people we had met along the way. The journey back to Manali was bittersweet, but the memories of our SAR Pass hike would stay with us forever.

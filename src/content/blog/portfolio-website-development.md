@@ -58,11 +58,11 @@ The entire project is developed with SEO focus in mind. I've used proper meta ta
 
 > You can search this website on google by using keywords like 'sat naing dev'
 
-![searching satnaing.dev on google](https://res.cloudinary.com/noezectz/image/upload/v1648231400/SatNaing/satnaing-on-google_asflq6.png "satnaing.dev is indexed")
+![searching satnaing.dev on google](https://res.cloudinary.com/noezectz/image/upload/q_auto/v1648231400/SatNaing/satnaing-on-google_asflq6.png "satnaing.dev is indexed")
 
 Moreover, this website will be displayed well when shared to social media due to properly used meta tags.
 
-![satnaing.dev card layout when shared to Facebook](https://res.cloudinary.com/noezectz/image/upload/v1653106955/SatNaing/satnaing-dev-share-on-facebook_1_zjoehx.png "Card layout when shared to Facebook")
+![satnaing.dev card layout when shared to Facebook](https://res.cloudinary.com/noezectz/image/upload/q_auto/v1653106955/SatNaing/satnaing-dev-share-on-facebook_1_zjoehx.png "Card layout when shared to Facebook")
 
 ### Dynamic Sitemap
 
@@ -90,7 +90,7 @@ This website got very good performance and lighthouse score thanks to proper dev
 
 Initially I used [Framer Motion](https://www.framer.com/motion/ "Framer Motion") to add animations and micro interactions for this website. However, when I tried to use some complex animations and parallax effects, I found it inconvenient to integrate with Framer Motion (Maybe I'm not very good at and used to working with it). Hence, I decided to use [GSAP](https://greensock.com/ "GSAP Animation Library") for all of my animations. It is one of the most popular animation library and it is capable of doing complex and advanced animations. You can see animations and micro interactions on pretty much every page of this website.
 
-![animations at satnaing.dev](https://res.cloudinary.com/noezectz/image/upload/v1653108324/SatNaing/ezgif.com-gif-maker_2_hehtlm.gif "satnaing.dev website")
+![animations at satnaing.dev](https://res.cloudinary.com/noezectz/image/upload/q_auto/v1653108324/SatNaing/ezgif.com-gif-maker_2_hehtlm.gif "satnaing.dev website")
 
 ## Outro
 

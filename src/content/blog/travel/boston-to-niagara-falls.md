@@ -11,14 +11,14 @@ tags:
   - travel
   - boston
   - niagara-falls
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710364614/raghavendra-murthy-blog/travel/USA/20180804_192509_spyi6e.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710364614/raghavendra-murthy-blog/travel/USA/20180804_192509_spyi6e.jpg"
 description: "Embark on an unforgettable adventure through picturesque landscapes, winding roads, and awe-inspiring natural wonders. Join us as we traverse from the vibrant streets of Boston to the thundering roar of Niagara Falls and the enchanting archipelago of the 1000 Islands. Get ready to experience the thrill of the open road and the breathtaking beauty of some of North America's most iconic destinations."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710364614/raghavendra-murthy-blog/travel/USA/20180804_192509_spyi6e.jpg"
 imgAlt: "niagara falls"
 readingTime: "2 Mins"
 ---
 
-![niagara falls](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710364806/raghavendra-murthy-blog/travel/USA/20180804_192541_k6dckd.jpg)
+![niagara falls](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710364806/raghavendra-murthy-blog/travel/USA/20180804_192541_k6dckd.jpg)
 Embark on an unforgettable adventure through picturesque landscapes, winding roads, and awe-inspiring natural wonders. Join us as we traverse from Boston to the thundering roar of Niagara Falls and the enchanting archipelago of the 1000 Islands. Get ready to experience the thrill of the open road and the breathtaking beauty of some of North America's most iconic destinations.
 
 **Day 1: Boston to Niagara Falls**
@@ -45,7 +45,7 @@ _Evening:_ We couldn't leave Niagara Falls without experiencing the nighttime il
 
 **Day 3: From Niagara Falls to 1000 Islands**
 
-![1000 Islands](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710365123/raghavendra-murthy-blog/travel/USA/20180805_121538_meymfs.jpg)
+![1000 Islands](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710365123/raghavendra-murthy-blog/travel/USA/20180805_121538_meymfs.jpg)
 
 _Morning:_ On our final day, we savored a leisurely breakfast with a view of the falls one last time. Then, we hit the road again, this time headed northeast towards the breathtaking 1000 Islands region. Our drive took us through charming towns and lush countryside, making the journey itself an adventure.
 

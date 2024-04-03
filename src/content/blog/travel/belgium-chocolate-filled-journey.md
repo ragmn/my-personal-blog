@@ -11,7 +11,7 @@ tags:
   - travel
   - belgium
   - bruges
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
 description: "Join me on a delectable 2-day adventure through Belgium's capital city of Brussels and the enchanting medieval town of Bruges. From indulging in mouthwatering Belgian chocolates to savoring crispy waffles and frothy beers, this journey promises to delight your taste buds and captivate your senses. Get ready for a sweet escape into the heart of Belgium's culinary and cultural treasures!"
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
 imgAlt: "belgium"

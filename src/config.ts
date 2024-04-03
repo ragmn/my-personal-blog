@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "Welcome to my personal blog ragavendramurthy.com, where I share my learning adventures and talk about my interests, which primarily include web technology, travel, spirituality, yoga, and meditation.",
   title: "Raghavendra Murthy | Tech Lead | Spiritual Seeker",
   ogImage:
-    "https://res.cloudinary.com/djsjtqjsp/image/upload/v1688481538/raghavendra-murthy-blog/seo-card_k8tra5.png",
+    "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1688481538/raghavendra-murthy-blog/seo-card_k8tra5.png",
   lightAndDarkMode: true,
   postPerPage: 8,
 };

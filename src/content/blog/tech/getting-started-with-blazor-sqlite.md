@@ -24,7 +24,7 @@ readingTime: "3 Mins"
 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">Blazor🡕</a> is a open-source SPA web framework developed by Microsoft that helps developers to build web apps using C# instead of JavaScript. Blazor is a feature from existing ASP.NET framework and this enables possibility for .NET C# developer to build Modern webapps by using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.
 
-![Blazor App](https://res.cloudinary.com/djsjtqjsp/image/upload/v1687551145/raghavendra-murthy-blog/screenshot-blazor-sample_ixd7sr.gif)
+![Blazor App](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1687551145/raghavendra-murthy-blog/screenshot-blazor-sample_ixd7sr.gif)
 
 ### Blazor app hosting option
 
@@ -39,7 +39,7 @@ readingTime: "3 Mins"
 ## Steps
 
 - In Visual Studio, create a new Blazor Server App, choose Individual Accounts for ASP.NET Identity
-  ![Blazor App](https://res.cloudinary.com/djsjtqjsp/image/upload/v1687552361/raghavendra-murthy-blog/1_gvwyrn.png)
+  ![Blazor App](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1687552361/raghavendra-murthy-blog/1_gvwyrn.png)
 - Install nuget package `Microsoft.EntityFrameworkCore.Sqlite`
 - Modify `appsettings.json` file to include `SqliteConnection` connection(create the database file on the project root) as follows
   ```cs
@@ -57,7 +57,7 @@ readingTime: "3 Mins"
 - By Default, the Data Migration scripts are on SQL server & SQLite scripts doesn't support `NVARCHAR(MAX)` & hence replace them with `maxLength: 256`
 - Goto Package Manager Console & run `Update-Database` to create database on SQLite.
 - run the application & try to register a user
-  ![Blazor App](https://res.cloudinary.com/djsjtqjsp/image/upload/v1687553937/raghavendra-murthy-blog/demo_xgykw3.gif)
+  ![Blazor App](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1687553937/raghavendra-murthy-blog/demo_xgykw3.gif)
 
 ## Repo
 

@@ -12,7 +12,7 @@ tags:
   - canary-islands
   - fuerteventura
   - spain
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710365516/raghavendra-murthy-blog/travel/europe/IMG_8887_lyi612.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710365516/raghavendra-murthy-blog/travel/europe/IMG_8887_lyi612.jpg"
 description: "A thrilling 2-day adventure in Fuerteventura, where golden sand dunes, crystal-clear waters, and delicious cuisine await. Join me as I explore this enchanting Canary Island, from surfing the waves of La Pared to savoring local delicacies in charming villages. Fuerteventura is a paradise for beach lovers, history enthusiasts, and adventure seekers alike - come along for an unforgettable journey!"
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710365516/raghavendra-murthy-blog/travel/europe/IMG_8887_lyi612.jpg"
 imgAlt: "fuerteventura"
@@ -30,7 +30,7 @@ After months of anticipation, my plane touched down on the mesmerizing island of
 
 **Corralejo Dunes Natural Park:**
 First stop of the day - Corralejo Dunes Natural Park, a striking landscape of golden sand dunes stretching as far as the eye can see. It's like walking through a desert oasis with the turquoise waters of the Atlantic Ocean on one side and the rolling dunes on the other. Don't forget to snap some photos; this place is an Instagrammer's dream.
-![fuerteventura](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710365516/raghavendra-murthy-blog/travel/europe/IMG_8887_lyi612.jpg)
+![fuerteventura](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710365516/raghavendra-murthy-blog/travel/europe/IMG_8887_lyi612.jpg)
 
 **Afternoon:**
 **Lunch at a Beachfront Restaurant:**
@@ -61,7 +61,7 @@ As the day was winding down, I made my way to Oasis Park Fuerteventura. This zoo
 **Dinner in Puerto del Rosario:**
 I wrapped up my adventure with a delicious dinner in Puerto del Rosario, the island's capital. I dined at a traditional Canarian restaurant and indulged in grilled goat cheese with honey, followed by a succulent Canarian stew known as "ropa vieja." It was a fitting end to my culinary journey on the island.
 
-![fuerteventura](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710365547/raghavendra-murthy-blog/travel/europe/IMG_8907_qd5fd8.jpg)
+![fuerteventura](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710365547/raghavendra-murthy-blog/travel/europe/IMG_8907_qd5fd8.jpg)
 
 **Conclusion:**
 Fuerteventura, with its natural beauty, adventure opportunities, and delectable cuisine, exceeded my expectations. It's a place where you can relax on pristine beaches, explore historical towns, and embark on thrilling adventures. Whether you're a beach lover, a history buff, or an adrenaline junkie, Fuerteventura has something for everyone. This two-day journey was just a glimpse of the island's magic, and I can't wait to return for more adventures and discoveries in this enchanting paradise.

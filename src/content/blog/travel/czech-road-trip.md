@@ -11,7 +11,7 @@ tags:
   - travel
   - czech
   - prague
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710366229/raghavendra-murthy-blog/travel/czech/IMG_8185_rh9so6.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710366229/raghavendra-murthy-blog/travel/czech/IMG_8185_rh9so6.jpg"
 description: "A captivating journey through the heart of the Czech Republic, beginning amidst Prague's iconic spires and winding through the picturesque countryside to the medieval charms of Český Krumlov. Along the way, discover the dramatic ruins of Trosky State Castle, indulge in traditional Czech cuisine, and immerse yourself in the rich history and enchanting landscapes of this captivating region. Join us for an unforgettable 3-day road trip filled with culture, history, and natural beauty."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710366229/raghavendra-murthy-blog/travel/czech/IMG_8185_rh9so6.jpg"
 imgAlt: "prague"
@@ -20,7 +20,7 @@ readingTime: "2 Mins"
 
 A captivating journey through the heart of the Czech Republic, beginning amidst Prague's iconic spires and winding through the picturesque countryside to the medieval charms of Český Krumlov. Along the way, discover the dramatic ruins of Trosky State Castle, indulge in traditional Czech cuisine, and immerse yourself in the rich history and enchanting landscapes of this captivating region. Join us for an unforgettable 3-day road trip filled with culture, history, and natural beauty.
 
-![prague](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710366229/raghavendra-murthy-blog/travel/czech/IMG_8185_rh9so6.jpg)
+![prague](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710366229/raghavendra-murthy-blog/travel/czech/IMG_8185_rh9so6.jpg)
 
 **Day 1: Exploring the Heart of Prague**
 
@@ -34,7 +34,7 @@ After breakfast, head to the iconic Prague Castle. This sprawling complex is not
 
 **Lunch:**
 For a delicious lunch, make your way to Malá Strana, the Lesser Town of Prague. Here, you'll find cozy restaurants serving classic Czech dishes like svíčková (marinated beef) or trdelník (sweet pastries). Enjoy your meal in the picturesque square while taking in the views of the Charles Bridge. Cross the iconic Charles Bridge, adorned with statues of saints, artists, and musicians. Wander through the winding cobblestone streets of the Old Town. Be sure to visit the famous Astronomical Clock in the Old Town Square.
-![Charles Bridge](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710366622/raghavendra-murthy-blog/travel/czech/IMG_8191_gokirv.jpg)
+![Charles Bridge](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710366622/raghavendra-murthy-blog/travel/czech/IMG_8191_gokirv.jpg)
 
 **Evening:**
 
@@ -54,7 +54,7 @@ Spend your afternoon wandering through the charming district of Vyšehrad. This 
 
 Enjoy dinner at one of the riverside restaurants in the Smíchov district. The view of Prague Castle illuminated at night is truly magical. Afterward, take a leisurely stroll along the Vltava River and capture the city's stunning night lights.
 
-![Charles Bridge](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710366917/raghavendra-murthy-blog/travel/czech/IMG_8426_i2axof.jpg)
+![Charles Bridge](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710366917/raghavendra-murthy-blog/travel/czech/IMG_8426_i2axof.jpg)
 
 **Day 3: Road Trip to Český Krumlov with a Stop at Trosky State Castle**
 
@@ -70,8 +70,8 @@ Upon arrival, you'll be greeted by the impressive sight of the two towers, named
 
 **Afternoon: Continue to Český Krumlov**
 After your visit to Trosky State Castle, find a nearby restaurant to enjoy a leisurely lunch. Taste some Czech countryside specialties while taking in the serene rural atmosphere. Resume your road trip to Český Krumlov, which is approximately a 2-hour drive from Trosky State Castle. The scenic drive through the Czech countryside is a treat in itself, with rolling hills, charming villages, and picturesque landscapes.
-![Český Krumlov](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710367114/raghavendra-murthy-blog/travel/czech/IMG_8453_viirs2.jpg)
-![Český Krumlov](https://res.cloudinary.com/djsjtqjsp/image/upload/v1710367143/raghavendra-murthy-blog/travel/czech/IMG_8492_xfhotj.jpg)
+![Český Krumlov](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710367114/raghavendra-murthy-blog/travel/czech/IMG_8453_viirs2.jpg)
+![Český Krumlov](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710367143/raghavendra-murthy-blog/travel/czech/IMG_8492_xfhotj.jpg)
 
 **Evening:**
 
