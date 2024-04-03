@@ -62,7 +62,7 @@ Today, I bid farewell to Phi Phi Islands and took a ferry to Krabi, another stun
 
 **Afternoon: Ao Nang and Railay Beach**
 
-I rode my motorbike to Ao Nang, a bustling beach town known for its vibrant street markets and delicious seafood restaurants. From there, I hopped on a longtail boat to Railay Beach, surrounded by dramatic limestone cliffs. The clear waters and unique rock formations were perfect for rock climbing or simply relaxing on the beach.
+I rode my motorbike to Ao Nang, a bustling beach town known for its vibrant street markets and delicious restaurants. From there, I hopped on a longtail boat to Railay Beach, surrounded by dramatic limestone cliffs. The clear waters and unique rock formations were perfect for rock climbing or simply relaxing on the beach.
 
 **Evening: Krabi Town Night Market**
 
@@ -94,7 +94,7 @@ I joined a Phang Nga Bay tour, a magical experience that included kayaking throu
 
 **Evening: Farewell Dinner**
 
-My 5-day adventure was coming to an end, so I enjoyed a farewell dinner at a beachfront restaurant, savoring fresh seafood and reflecting on the incredible experiences I had during my time in Thailand.
+My 5-day adventure was coming to an end, so I enjoyed a farewell dinner at a beachfront restaurant, savoring delicious food and reflecting on the incredible experiences I had during my time in Thailand.
 
 **Conclusion: An Unforgettable Journey**
 

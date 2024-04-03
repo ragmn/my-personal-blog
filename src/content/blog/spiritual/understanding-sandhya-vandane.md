@@ -10,7 +10,7 @@ categories:
 tags:
   - Sandhyavandhane
   - sanskrit
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1692373327/raghavendra-murthy-blog/s1_xlqoq4.png"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1692373327/raghavendra-murthy-blog/s1_xlqoq4.png"
 description: "Understanding the basic process of Sandhya Vandanam & what are its significance: A Comprehensive Guide on its Importance and Relevance for Your Spiritual Journey."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692373327/raghavendra-murthy-blog/s1_xlqoq4.png"
 imgAlt: "essential nuget packages for dotnet"

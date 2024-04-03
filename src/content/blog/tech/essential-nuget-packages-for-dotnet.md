@@ -10,7 +10,7 @@ categories:
 tags:
   - dotnet
   - nuget
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
 description: "Essential NuGet Packages to significantly enhance and boost your productivity in dotnet development. Unlock the full potential of your projects with these must-have packages that provide a wide range of powerful features and functionalities."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1688401899/raghavendra-murthy-blog/essentials-nuget-packages_xjbzxe.png"
 imgAlt: "essential nuget packages for dotnet"
@@ -228,7 +228,7 @@ using (var client = new SmtpClient())
 - Link: [Hangfire](https://www.nuget.org/packages/Hangfire/)
 
 Hangfire is a popular background processing and task scheduling library for .NET applications. It provides a simple and reliable way to execute recurring or delayed tasks in the background, allowing you to offload time-consuming operations from the main request/response cycle. Perform fire-and-forget, delayed and recurring, long-running, short-running, CPU or I/O intensive tasks. Hangfire supports different storage options and offers a user-friendly dashboard for monitoring and managing scheduled tasks. Its simplicity and robustness make it an excellent choice for implementing background processing capabilities in your .NET projects.
-![Hangfire dashboard](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1688401570/raghavendra-murthy-blog/hf_yspx0t.png)
+![Hangfire dashboard](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1688401570/raghavendra-murthy-blog/hf_yspx0t.png)
 
 ```csharp
 using Hangfire;

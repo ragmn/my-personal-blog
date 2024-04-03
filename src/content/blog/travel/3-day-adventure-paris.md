@@ -11,7 +11,7 @@ tags:
   - travel
   - paris
   - london
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
 description: "Welcome to the enchanting city of Paris! From its iconic landmarks to its charming streets, Paris has captivated travelers for centuries. Whether you're a first-time visitor or a seasoned explorer, this travel blog will guide you through the best of the City of Lights and Love. So grab your beret, sip some café au lait, and let's embark on an unforgettable adventure."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
 imgAlt: "Paris"

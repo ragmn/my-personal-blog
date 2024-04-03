@@ -145,3 +145,7 @@
 .border-gray-aa {
   border-color: #d3d3d3b8;
 }
+
+.underline {
+  text-underline-offset: 8px;
+}

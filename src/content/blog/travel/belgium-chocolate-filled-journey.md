@@ -1,6 +1,6 @@
 ---
 author: Raghavendra Murthy
-pubDatetime: 2022-06-25
+pubDatetime: 2022-06-29
 title: A Chocolate-filled Journey Through Brussels and Bruges
 postSlug: belgium-chocolate-filled-journey
 featured: false
@@ -11,7 +11,7 @@ tags:
   - travel
   - belgium
   - bruges
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
 description: "Join me on a delectable 2-day adventure through Belgium's capital city of Brussels and the enchanting medieval town of Bruges. From indulging in mouthwatering Belgian chocolates to savoring crispy waffles and frothy beers, this journey promises to delight your taste buds and captivate your senses. Get ready for a sweet escape into the heart of Belgium's culinary and cultural treasures!"
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710282472/raghavendra-murthy-blog/travel/Belgium/20220625_150429_wlyzmg.jpg"
 imgAlt: "belgium"
@@ -59,7 +59,7 @@ _Late Afternoon: Chocolate Museum & Souvenir Shopping_
 Explore the Choco-Story Chocolate Museum to learn about the history of cocoa and the art of chocolate making. Don't forget to pick up more Belgian chocolates and souvenirs from the quaint shops around the Markt square.
 
 _Evening: Dinner at a Local Brasserie_
-For your final meal in Belgium, savor a delicious dinner at a local brasserie. Try Flemish beef stew (carbonnade flamande) or waterzooi, a creamy chicken or fish stew, while enjoying the warm ambiance of Bruges.
+For your final meal in Belgium, savor a delicious dinner at a local brasserie while enjoying the warm ambiance of Bruges.
 
 **Conclusion**
 

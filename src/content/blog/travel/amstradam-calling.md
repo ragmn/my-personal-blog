@@ -11,7 +11,7 @@ tags:
   - travel
   - amstradam
   - london
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1709671614/raghavendra-murthy-blog/travel/paris/IMG_4215_qzdbc3.jpg"
 description: "Amsterdam, the vibrant capital of the Netherlands, is a city that effortlessly blends history, culture, and modernity. My recent trip to this enchanting city with my friend Niranjan was nothing short of magical. Let me take you on a journey through the picturesque canals, iconic neighborhoods, and unique experiences we had in Amsterdam."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1709674089/raghavendra-murthy-blog/travel/Amstradam/IMG_0807_wykqc1.jpg"
 imgAlt: "Amstradam"

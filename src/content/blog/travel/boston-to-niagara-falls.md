@@ -11,14 +11,14 @@ tags:
   - travel
   - boston
   - niagara-falls
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710364614/raghavendra-murthy-blog/travel/USA/20180804_192509_spyi6e.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710364614/raghavendra-murthy-blog/travel/USA/20180804_192509_spyi6e.jpg"
 description: "Embark on an unforgettable adventure through picturesque landscapes, winding roads, and awe-inspiring natural wonders. Join us as we traverse from the vibrant streets of Boston to the thundering roar of Niagara Falls and the enchanting archipelago of the 1000 Islands. Get ready to experience the thrill of the open road and the breathtaking beauty of some of North America's most iconic destinations."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710364614/raghavendra-murthy-blog/travel/USA/20180804_192509_spyi6e.jpg"
 imgAlt: "niagara falls"
 readingTime: "2 Mins"
 ---
 
-![niagara falls](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710364806/raghavendra-murthy-blog/travel/USA/20180804_192541_k6dckd.jpg)
+![niagara falls](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710364806/raghavendra-murthy-blog/travel/USA/20180804_192541_k6dckd.jpg)
 Embark on an unforgettable adventure through picturesque landscapes, winding roads, and awe-inspiring natural wonders. Join us as we traverse from Boston to the thundering roar of Niagara Falls and the enchanting archipelago of the 1000 Islands. Get ready to experience the thrill of the open road and the breathtaking beauty of some of North America's most iconic destinations.
 
 **Day 1: Boston to Niagara Falls**
@@ -45,7 +45,7 @@ _Evening:_ We couldn't leave Niagara Falls without experiencing the nighttime il
 
 **Day 3: From Niagara Falls to 1000 Islands**
 
-![1000 Islands](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710365123/raghavendra-murthy-blog/travel/USA/20180805_121538_meymfs.jpg)
+![1000 Islands](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710365123/raghavendra-murthy-blog/travel/USA/20180805_121538_meymfs.jpg)
 
 _Morning:_ On our final day, we savored a leisurely breakfast with a view of the falls one last time. Then, we hit the road again, this time headed northeast towards the breathtaking 1000 Islands region. Our drive took us through charming towns and lush countryside, making the journey itself an adventure.
 
@@ -53,6 +53,6 @@ _Midday:_ We arrived at the picturesque town of Alexandria Bay, the gateway to t
 
 _Afternoon:_ Our boat tour also included a visit to Boldt Castle, a historic and romantic island mansion. We wandered through the beautifully restored rooms and gardens, learning about the tragic love story behind its construction.
 
-_Evening:_ As the day neared its end, we enjoyed a delicious seafood dinner at a waterfront restaurant in Alexandria Bay. The sunset over the St. Lawrence River was a perfect ending to our adventure.
+_Evening:_ As the day neared its end, we enjoyed a delicious dinner at a waterfront restaurant in Alexandria Bay. The sunset over the St. Lawrence River was a perfect ending to our adventure.
 
 Our road trip from Boston to Niagara Falls and the 1000 Islands was an unforgettable journey filled with stunning landscapes, thrilling experiences, and cherished memories. As we headed home, we couldn't help but reflect on the incredible beauty of nature and the joy of the open road. Until the next adventure!

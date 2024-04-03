@@ -1,7 +1,7 @@
 ---
 author: Raghavendra Murthy
 pubDatetime: 2023-07-17
-title: Road Tripping Redemption - From Missed Flight to Dubai Drive
+title: Abu Dhabi to Dubai - From Missed Flight to Dubai Drive
 postSlug: dubai-adventures-missed-flight
 featured: false
 draft: false
@@ -12,7 +12,7 @@ tags:
   - dubai
   - abudhabi
   - UAE
-ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710367723/raghavendra-murthy-blog/travel/dubai/IMG_3580_ykyulq.jpg"
+ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710367723/raghavendra-murthy-blog/travel/dubai/IMG_3580_ykyulq.jpg"
 description: "The unexpected journey as a missed flight in Abu Dhabi leads to a whirlwind road trip to Dubai. From exploring Abu Dhabi's hidden gems to embracing the open road, this two-day adventure proves that sometimes the best experiences come from unexpected detours. Come along for the ride and discover the beauty of turning misfortune into opportunity!"
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1710367723/raghavendra-murthy-blog/travel/dubai/IMG_3580_ykyulq.jpg"
 imgAlt: "dubai"
@@ -21,7 +21,7 @@ readingTime: "2 Mins"
 
 Join me on an unexpected journey as a missed flight in Abu Dhabi leads to a whirlwind road trip to Dubai. From exploring Abu Dhabi's hidden gems to embracing the open road, this two-day adventure proves that sometimes the best experiences come from unexpected detours. Come along for the ride and discover the beauty of turning misfortune into opportunity!
 
-![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710367723/raghavendra-murthy-blog/travel/dubai/IMG_3580_ykyulq.jpg)
+![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710367723/raghavendra-murthy-blog/travel/dubai/IMG_3580_ykyulq.jpg)
 
 Hey there, fellow travel enthusiasts! Today, we(I & Vinaya) are going to share with you a tale of unexpected adventures that turned a simple layover in Abu Dhabi into a thrilling two-day road trip to Dubai. Sometimes, the best travel experiences happen when things don't go according to plan.
 
@@ -36,7 +36,7 @@ However, fate had other plans for our that day. Due to a combination of factors 
 With a sudden change of plans, we decided to make the most of my time in Abu Dhabi. we grabbed my luggage and headed to the airport information desk to get some recommendations. The helpful staff suggested a few must-see places in Abu Dhabi, and off we went to explore.
 
 First stop: Sheikh Zayed Grand Mosque. This architectural masterpiece left me in awe with its stunning white marble, intricate details, and serene atmosphere. wet was the perfect place to reflect on my unexpected turn of events and find some inner peace.
-![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710368261/raghavendra-murthy-blog/travel/dubai/20220529_104957_oy07al.jpg)
+![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710368261/raghavendra-murthy-blog/travel/dubai/20220529_104957_oy07al.jpg)
 
 Next, we visited the Louvre Abu Dhabi, an art and civilization museum that showcases a diverse collection of artworks from around the world. The exhibits were fascinating, and we found myself lost in thought as we wandered through the galleries.
 
@@ -48,11 +48,11 @@ Waking up with a sense of adventure, we decided to turn my misfortune into an op
 
 The drive was surprisingly enjoyable, with wide, well-maintained roads and clear signage. we made a few stops along the way to admire the desert landscape and snap some photos. The vast sand dunes and the occasional camel sighting made me appreciate the unique beauty of the UAE's desert regions.
 
-![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710368421/raghavendra-murthy-blog/travel/dubai/20220529_153817_b4hkup.jpg)
+![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710368421/raghavendra-murthy-blog/travel/dubai/20220529_153817_b4hkup.jpg)
 
 As we neared Dubai, the iconic skyline began to appear on the horizon, and my excitement grew. we arrived in the city just in time for sunset, and there's no better place to catch the sunset in Dubai than at the Burj Khalifa. we managed to secure a ticket to the observation deck and watched the city's lights come to life as the sun dipped below the Arabian Gulf.
 
-![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto/v1710368626/raghavendra-murthy-blog/travel/dubai/20220529_190344_qt0rel.jpg)
+![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710368626/raghavendra-murthy-blog/travel/dubai/20220529_190344_qt0rel.jpg)
 
 **Making the Most of the Unexpected**
 
