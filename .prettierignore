@@ -1,5 +1,6 @@
 # Ignore everything
 /*
+/public/robots.txt
 
 # Except these files & folders
 !/src

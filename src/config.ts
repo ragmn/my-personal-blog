@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://raghavendramurthy.com/",
   author: "Ragavendra Murthy.com",
   desc: "Welcome to my personal blog ragavendramurthy.com, where I share my learning adventures and talk about my interests, which primarily include web technology, travel, spirituality, yoga, and meditation.",
-  title: "Raghavendra Murthy | Tech Lead | Spiritual Seeker",
+  title: "Raghavendra Murthy | Tech Lead",
   ogImage:
     "https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1688481538/raghavendra-murthy-blog/seo-card_k8tra5.png",
   lightAndDarkMode: true,
