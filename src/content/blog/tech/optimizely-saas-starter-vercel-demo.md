@@ -3,7 +3,7 @@ author: Raghavendra Murthy
 pubDatetime: 2024-07-17
 title: Getting Started with Optimizely SaaS using Next.js Starter App & Deployment to Vercel
 postSlug: optimizely-saas-starter-vercel-demo
-featured: false
+featured: true
 draft: false
 categories:
   - Tech
@@ -13,20 +13,20 @@ tags:
   - vercel
   - poc
 ogImage: "https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg"
-description: "In this proof-of-concept (POC) blog, we will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account."
+description: "In this proof-of-concept (POC) blog, I will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692111971/raghavendra-murthy-blog/optimizely-vector-logo-2021_ufk1de.png"
 readingTime: "10 Mins"
 ---
 
 ![optimizely saas](https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg)
 
-In this proof-of-concept (POC) blog, we will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account.
+In this proof-of-concept (POC) blog, I will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account.
 
 ## Prerequisites
 
-1. <a href="https://www.optimizely.com/beta-signup/" target="_blank">Sign up for optimizely saas beta🡕</a>
-2. <a href="https://vercel.com/signup" target="_blank">Sign up for Vercel hobby account🡕</a>
-3. <a href="https://github.com/join" target="_blank">Sign up for GitHub🡕</a>
+1. Access to Optimizely SaaS Beta | <a href="https://www.optimizely.com/beta-signup/" target="_blank">Sign up for Optimizely SaaS Beta🡕</a>
+2. Vercel Hobby Account | <a href="https://vercel.com/signup" target="_blank">Sign up for Vercel Hobby Account🡕</a>
+3. GitHub account | <a href="https://github.com/join" target="_blank">Sign up for GitHub🡕</a>
 
 ## Step 1: Import Sample Data in Optimizely SaaS
 
@@ -34,28 +34,26 @@ In this proof-of-concept (POC) blog, we will walk you through the steps to get s
 2. **Import Sample Data**:
    - [Downlaod](https://world.optimizely.com/globalassets/downloads/moseybank-2.episerverdata) the sample "Mosey Bank" data and import it.
    - Navigate to `Settings > Import Data > Choose File`.
-   - Choose Root oath under content tree.
+   - Choose Root path under content tree.
    - Click `Begin Import`.
 
 ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721214490/raghavendra-murthy-blog/opti_clsnl3.png)
 
-## Step 2: Create a Graph Token
+## Step 2: Generate a Graph Token
 
-1. **Generate a Graph Token**:
-   - Go to `Settings > API Clients`.
-   - Create a new API client and generate the key/secret.
-   - Note down the generated key and secret for later use.
-     ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721214732/raghavendra-murthy-blog/opti_2_s97n0m.png)
+- Go to `Settings > API Clients`.
+- Create a new API client and generate the key/secret.
+- Note down the generated key and secret for later use.
+  ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721214732/raghavendra-murthy-blog/opti_2_s97n0m.png)
 
 ## Step 3: Clone the Repository and Deploy to Vercel
 
-1. **Clone the Repository**:
-   - Go to the <a href="https://github.com/episerver/cms-saas-vercel-demo?tab=readme-ov-file" target="_blank">GitHub repository🡕</a>.
-   - Click the "Deploy" button in the readme section to deploy this site to your Vercel Account.
-   - Create repository & configure Environment Variables
-     ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721225406/raghavendra-murthy-blog/opti_3_gkiqvy.png)
-   - Configure the Environmnet variables & click deploy
-     ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721227187/raghavendra-murthy-blog/opti_4_ludmxq.png)
+- Go to the <a href="https://github.com/episerver/cms-saas-vercel-demo?tab=readme-ov-file" target="_blank">GitHub repository🡕</a>.
+- Click the "Deploy" button in the readme section to deploy this site to your Vercel Account.
+- Create repository.
+  ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721225406/raghavendra-murthy-blog/opti_3_gkiqvy.png)
+- Configure the Environmnet variables & click deploy
+  ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721227187/raghavendra-murthy-blog/opti_4_ludmxq.png)
 
 | Environment Variable            | Instruction                                                                                                            |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +65,7 @@ In this proof-of-concept (POC) blog, we will walk you through the steps to get s
 
 ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721227227/raghavendra-murthy-blog/opti_5_grtnfe.png)
 
-Once the deploymnet is sucessful, your sample starter Mosey Bank website should be up & running rendering data from Opti SaaS.
+Once the deployment is successful, your sample starter Mosey Bank website should be up & running, rendering data from Opti SaaS.
 ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721230226/raghavendra-murthy-blog/opt7_dpbtro.png)
 
 ## Step 4: Configure the visual editor in CMS
@@ -78,7 +76,7 @@ Once the deploymnet is sucessful, your sample starter Mosey Bank website should 
 - Choose Start page as Mosey Bank root
 - Click Create Website.
 - Select created Application & go to hostnames
-- Click hostname. Add the copied Vercel URL as hostname & select en as locale.
+- Click hostname. Add the copied Vercel URL as hostname & select `en` as locale.
   ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721228792/raghavendra-murthy-blog/ezgif-1-46dd7f12c2_bu8ngf.gif)
 
 ## Step 5: Verify the Deployment 🎉
