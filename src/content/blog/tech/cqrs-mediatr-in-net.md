@@ -13,7 +13,7 @@ tags:
   - mediatr
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/c_thumb,w_200,g_face/v1687518575/raghavendra-murthy-blog/charp_qutet1.png"
 description: "In this blog post, we'll explore CQRS and MediatR in the context of .NET 8, using a Minimal API approach with an Employee record as our primary example. We'll cover the basics, dive into implementation details, and discuss the benefits and potential drawbacks of this architecture."
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/c_thumb,w_250,g_face/v1687518575/raghavendra-murthy-blog/charp_qutet1.png"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/c_thumb,w_300,g_face/v1687518575/raghavendra-murthy-blog/charp_qutet1.png"
 readingTime: "20 Mins"
 ---
 
