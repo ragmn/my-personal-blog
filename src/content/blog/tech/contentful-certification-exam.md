@@ -12,7 +12,7 @@ tags:
   - contentful
 ogImage: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_500,h_100/v1719931949/raghavendra-murthy-blog/travel/contentful/Screenshot_2024-07-02_155136_p0mqn8.png"
 description: "Comprehensive guide to preparing for the Contentful Professional Certification. Learn about key topics, course recommendations, and exam tips to become a certified Contentful expert"
-imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_3d00,h_200/v1719931949/raghavendra-murthy-blog/travel/contentful/Screenshot_2024-07-02_155136_p0mqn8.png"
+imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/w_300,h_200/v1719931949/raghavendra-murthy-blog/travel/contentful/Screenshot_2024-07-02_155136_p0mqn8.png"
 readingTime: "3 Mins"
 ---
 
