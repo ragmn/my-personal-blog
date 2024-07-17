@@ -1,6 +1,6 @@
 ---
 author: Raghavendra Murthy
-pubDatetime: 2024-03-28
+pubDatetime: 2023-09-28
 title: "CQRS and MediatR in .NET 8: A Deep Dive with Minimal API"
 postSlug: cqrs-mediatr-in-net
 featured: false
