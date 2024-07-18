@@ -12,6 +12,7 @@ tags:
   - cms
   - vercel
   - poc
+  - nextJS
 ogImage: "https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg"
 description: "In this proof-of-concept (POC) blog, I will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692111971/raghavendra-murthy-blog/optimizely-vector-logo-2021_ufk1de.png"
@@ -55,13 +56,13 @@ In this proof-of-concept (POC) blog, I will walk you through the steps to get st
 - Configure the Environmnet variables & click deploy
   ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721227187/raghavendra-murthy-blog/opti_4_ludmxq.png)
 
-| Environment Variable            | Instruction                                                                                                            |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **OPTIMIZELY_CMS_URL**          | The URL where the Optimizely CMS can be reached by the build process; for example: https://example.cms.optimizely.com/ |
-| **OPTIMIZELY_GRAPH_SECRET**     | The Content Graph Secret can be made visible on the CMS Dashboard, within the "Render Content" section.                |
-| **OPTIMIZELY_GRAPH_APP_KEY**    | The Content Graph App key, which is shown on the CMS Dashboard, within the "Render Content" section.                   |
-| **OPTIMIZELY_GRAPH_SINGLE_KEY** | The Content Graph Single key, which is shown on the CMS Dashboard, within the "Render Content" section.                |
-| **SITE_DOMAIN**                 | Vercel app URL(to be added later after deployment to configure visual editor)                                          |
+#### Environment Variable
+
+- **OPTIMIZELY_CMS_URL** : The URL where the Optimizely CMS can be reached by the build process; for example: https://example.cms.optimizely.com/
+- **OPTIMIZELY_GRAPH_SECRET** : The Content Graph Secret can be made visible on the CMS Dashboard, within the "Render Content" section.
+- **OPTIMIZELY_GRAPH_APP_KEY** : The Content Graph App key, which is shown on the CMS Dashboard, within the "Render Content" section.
+- **OPTIMIZELY_GRAPH_SINGLE_KEY** : The Content Graph Single key, which is shown on the CMS Dashboard, within the "Render Content" section.
+- **SITE_DOMAIN** : Vercel app URL(to be added later after deployment to configure visual editor)
 
 ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721227227/raghavendra-murthy-blog/opti_5_grtnfe.png)
 
@@ -88,7 +89,7 @@ Once the deployment is successful, your sample starter Mosey Bank website should
 
 ## Conclusion
 
-By following these steps, you have successfully set up an Optimizely SaaS environment, imported sample data, and deployed a Next.js starter app to Vercel. You can now explore and customize the application further to suit your needs. In the next blog, we will explore how to madke content edits extend a component to test the IRS deployments in vercel.
+By following these steps, you have successfully set up an Optimizely SaaS environment, imported sample data, and deployed a Next.js starter app to Vercel. You can now explore and customize the application further to suit your needs. In the next blog, we will explore how to make content edits, extend a component to test the IRS & feature deployments in vercel.
 
 ## References
 
