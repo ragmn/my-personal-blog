@@ -1,6 +1,6 @@
 ---
 author: Raghavendra Murthy
-pubDatetime: 2024-07-17
+pubDatetime: 2024-07-19
 title: Getting Started with Optimizely SaaS using Next.js Starter App & Configure local development - Part 2
 postSlug: optimizely-saas-starter-vercel-poc-part-2
 featured: true
