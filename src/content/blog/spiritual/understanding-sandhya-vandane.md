@@ -384,14 +384,13 @@ A standing ritual is performed, with water being offered to the sun as an expres
 
 **Mantra:**
 
-> praNavasya parabrahma R|iShiH
+> praNavasya parabrahma RiShiH
 > paramAtmA devatA|
-> daivl gAyatr! ChaMdaHI|
-> vyAhR|itlnAM prajApatiH R|iShiH|
+> daiv gayatri ChaMdaH|
 > agni-vAyu-sUryA devatAH|
-> gAyatrluShNiganuShTubhashChaMdAMsi|
-> gAyatyrA vishvAmitra R|iShiH savitA devatA
-> gAyatrl ChaMdaH prAtararghyapradAne
+> gAyatri uShNig anuShTu bhraspathiChaMdAMsi|
+> gAyatyrA vishvAmitra RiShiH savitA devatA
+> gAyatri ChaMdaH prAtararghyapradAne
 > viniyogaH |
 > oM| bhUrbhuvaHsvaH|
 > tatsaviturvareNyaM| bhargo devasya dhlmahi|
@@ -408,7 +407,7 @@ A standing ritual is performed, with water being offered to the sun as an expres
 > dhiyo YO HaH prachodayAt|
 > sUryanArAyaNAya idamarghyaM samarpayAmi
 > dattaM na mama |
-> hR|idayasthA tu gAyatrl
+> hR|idayasthA tu gAyatri
 > hR|idguhAmukhanissR|itA|
 > hatVA hyAdityashatrUMshcha vishasva
 > hR|idayaM mama |
@@ -596,13 +595,13 @@ The practitioner seeks the presence of the goddess and inviting deities to resid
 > AgachCha varade devi jape me
 > sannidhau bhava gAyaMtaM trAyase
 > yasmAdgAyatrl tvaM tataH smR|itA |
-> praÑavasya parabrahma R|iShiH paramAtmA
+> praÑavasya parabrahma RiShiH paramAtmA
 > devatA
-> daivl gAyatr! ChaMdaH|
-> vyAhR|itlnAM prajApatiH R|iShiH |
+> daivl gayatri ChaMdaH|
+> vyAhR|itlnAM prajApatiH RiShiH |
 > agni-vAyu-sUryA devatAH
-> gAyatrl-uShNik-anuShTubhashChaMdAMsi
-> gAyatryA vishvAmitra R|iShiH
+> gAyatri-uShNik-anuShTubhashChaMdAMsi
+> gAyatryA vishvAmitra RiShiH
 > savitA devatA|
 > gAyatr ChaMdaH|
 > jape viniyogaHIl
@@ -630,7 +629,7 @@ The meditation involves visualization of different aspects of this form, attribu
 > trailokyaM charaNAH,
 > prAÑApAnavyAnodAnasamAnA saprANA
 > shvetavarNA,
-> sAMkhyAyanasagotrA gAyatrl
+> sAMkhyAyanasagotrA gAyatri
 > sAvitrl sarasvatl
 > chaturviMshatyakSharA,
 > tripadA ShaTkukShiH,
@@ -675,7 +674,7 @@ Om. Earth, sky, heaven. We meditate on the divine light of the Supreme Being. Ma
 > shikShati vratena|
 > na hanyate na jlyate tvoto nainamagMho ashno
 > tyaMtito na dUrAt ||
-> namo brahmaNa ityasya prajApatiH R|iShiH
+> namo brahmaNa ityasya prajApatiH RiShiH
 > vishvedeVA devatAH jagatl ChaMdaH
 > pradakShiNe viniyogaH |
 > oM namo brahmaNe namo astvagnaye namaH
@@ -758,7 +757,7 @@ Acknowledging the structure and composition of the Gayatri mantra and also seeki
 
 **Meaning:**
 
-> uttama ityasya vAmadeva R|iShiH, gAyatrl
+> uttama ityasya vAmadeva RiShiH, gAyatri
 > devatA, anuShTup ChaMdaH, gAyatryudvAsane
 > viniyogaH -
 > uttame shikhare jAte bhUmyAM
@@ -818,7 +817,7 @@ You are clothed, O Vasudeva, and you reside in all three worlds. You are the abo
 Sprinkling water while chanting mantra, purifying the space and mind & Invoke blessings from the deity Savita for prosperity and positive experiences. Also, In case of errors during practice, the practitioner seeks forgiveness by chanting the names ‘Achyuta,’ ‘Ananta,’ and ‘Govinda’
 
 > adyAna iti maMtrasya shyAvAshva
-> AtreyaH savitA gAyatrl
+> AtreyaH savitA gAyatri
 > japasthAnaprokShaNe viniyogaH |
 > adyAno deva savitaH prajAvatsAvlH saubhagam
 > parA duHsvapnyaM suva |
