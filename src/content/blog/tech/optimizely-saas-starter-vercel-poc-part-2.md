@@ -16,12 +16,12 @@ tags:
 ogImage: "https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg"
 description: "This is part 2 of a proof-of-concept (POC) blog. In this post, I will guide you through the steps to configure your SaaS instance with your local Next.js app and show you seamless content updates published from the SaaS instance."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692111971/raghavendra-murthy-blog/optimizely-vector-logo-2021_ufk1de.png"
-readingTime: "10 Mins"
+readingTime: "5 Mins"
 ---
 
 ![optimizely saas](https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg)
 
-Welcome to part 2 of Optimizely proof-of-concept (POC) blog series. In this post, I will provide a detailed walkthrough on how to configure your SaaS instance to work seamlessly with your local Next.js application. Additionally, I will show you seamless content updates published from the SaaS instance. By the end of this guide, you will have a fully functional setup where your local development environment is synchronized with your SaaS platform, allowing for real-time updates and extended functionality.
+Welcome to part 2 of the Optimizely proof-of-concept (POC) blog series. In the <a href="/posts/optimizely-saas-starter-vercel-demo/" target="_blank">previous post</a>, we explored how to integrate Optimizely SaaS using a Next.js starter app. This time, I will guide you through configuring your SaaS instance to work seamlessly with your local Next.js application. Additionally, we'll cover how to publish seamless content updates from the SaaS instance. By the end of this guide, you'll have a fully functional setup with your local development environment synchronized with your SaaS platform, enabling real-time updates and extended functionality.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ Welcome to part 2 of Optimizely proof-of-concept (POC) blog series. In this post
 ## Clone and Configure Next.js App locally with Optimizely SaaS
 
 1. Clone the GitHub repository to your local machine, which you deployed in part 1.
-2. Go to `.env` file under `apps\frontend` and update the below variables with your own values similar to part 1 vercel deployment step.
+2. Go to `.env` file under `apps\frontend` and update the below variables with your Saas instance config values similar to part 1 vercel deployment step.
    - **OPTIMIZELY_CMS_URL** : The URL where the Optimizely CMS can be reached by the build process.
    - **OPTIMIZELY_GRAPH_SECRET** : The Content Graph Secret can be made visible on the CMS Dashboard, within the "Render Content" section.
    - **OPTIMIZELY_GRAPH_APP_KEY** : The Content Graph App key, which is shown on the CMS Dashboard, within the "Render Content" section.
@@ -47,6 +47,8 @@ yarn next dev --experimental-https -p 3000
 > To connect the SaaS instance to your local host, it must be running securely over HTTPS; otherwise, the visual editor will encounter errors. Running the app using the `yarn next dev` command will start it with only HTTP. Therefore, you need to ensure the app is served over HTTPS to avoid any issues with the visual editor.
 
 4. Launch the app in your browser at `https://localhost:3000` The sample Mosey bank app should now be rendering in you locahost connencted to Saas CMS🎉
+
+![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721395363/raghavendra-murthy-blog/opt_8_daofll.png)
 
 We have now configured your SaaS instance to work seamlessly with your local Next.js application. By hooking up the local frontend application to the SaaS instance, we facilitate easier development and debugging.The following steps will demonstrate how easily content updates are published from the SaaS instance.
 
