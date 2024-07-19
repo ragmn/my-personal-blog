@@ -829,7 +829,7 @@ Sprinkling water while chanting mantra, purifying the space and mind & Invoke bl
 > tatsarvaM kShamyatAM deva nArAyaNa
 > namo.astu te |
 > madhye madhye
-> maMtrataMtrakarmalopaprAyashchittArthaM
+> maMtrataMtrakarmalopapr AyashchittArthaM
 > nAmatrayamaMtrajapaM kariShye |
 > achyutAya namaH, anaMtAya namaH, goviMdAya
 > пamaH
