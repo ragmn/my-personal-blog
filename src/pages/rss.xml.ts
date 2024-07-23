@@ -15,6 +15,9 @@ export async function get() {
       link: `posts/${slugify(data)}`,
       title: data.title,
       description: data.description,
+      categories: data.tags.filter(tag =>
+        tag.toLowerCase().includes("optimizely")
+      ),
       pubDate: new Date(data.pubDatetime),
     })),
   });

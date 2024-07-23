@@ -41,7 +41,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           posts
         </LinkButton> & feel free to subscribe to the feed<a
           target="_blank"
-          href="/rss.xml"
+          href={new URL("rss.xml", Astro.site)}
           class="rss-link"
           aria-label="rss feed"
           title="RSS Feed"
