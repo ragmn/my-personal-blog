@@ -1,7 +1,7 @@
 ---
 author: Raghavendra Murthy
 pubDatetime: 2024-07-17
-title: Getting Started with Optimizely SaaS using Next.js Starter App & Deployment to Vercel
+title: Getting Started with Optimizely SaaS using Next.js Starter App - Deployment to Vercel
 postSlug: optimizely-saas-starter-vercel-demo
 featured: true
 draft: false
@@ -21,7 +21,7 @@ readingTime: "10 Mins"
 
 ![optimizely saas](https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg)
 
-In this proof-of-concept (POC) blog, I will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account.
+In this getting Started with Optimizely proof-of-concept (POC) blog series, I will walk you through the steps to get started with Optimizely SaaS using a Next.js starter app and deploy it to Vercel. This guide assumes you have access to the SaaS version of Optimizely CMS, a Vercel account, and a GitHub account.
 
 ## Prerequisites
 
@@ -89,7 +89,7 @@ Once the deployment is successful, your sample starter Mosey Bank website should
 
 ## Conclusion
 
-By following these steps, you have successfully set up an Optimizely SaaS environment, imported sample data, and deployed a Next.js starter app to Vercel. You can now explore and customize the application further to suit your needs. In the next blog, we will explore how to make content edits, extend a component to test the IRS & feature deployments in vercel.
+By following these steps, you have successfully set up an Optimizely SaaS environment, imported sample data, and deployed a Next.js starter app to Vercel. You can now explore and customize the application further to suit your needs. In the next part, we will explore how to configure local environgment, make content edits, extend a component to test the IRS & feature deployments in vercel.
 
 ## References
 

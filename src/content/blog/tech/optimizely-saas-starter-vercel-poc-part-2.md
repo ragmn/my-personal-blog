@@ -1,7 +1,7 @@
 ---
 author: Raghavendra Murthy
 pubDatetime: 2024-07-19
-title: Getting Started with Optimizely SaaS using Next.js Starter App & Configure local development - Part 2
+title: Getting Started with Optimizely SaaS using Next.js Starter App - Configure local development - Part 2
 postSlug: optimizely-saas-starter-vercel-poc-part-2
 featured: true
 draft: false
@@ -21,7 +21,7 @@ readingTime: "5 Mins"
 
 ![optimizely saas](https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg)
 
-Welcome to part 2 of the Optimizely proof-of-concept (POC) blog series. In the <a href="/posts/optimizely-saas-starter-vercel-demo/" target="_blank">previous post</a>, we explored how to integrate Optimizely SaaS using a Next.js starter app. This time, I will guide you through configuring your SaaS instance to work seamlessly with your local Next.js application. Additionally, we'll cover how to publish seamless content updates from the SaaS instance. By the end of this guide, you'll have a fully functional setup with your local development environment synchronized with your SaaS platform, enabling real-time updates and extended functionality.
+Welcome to part 2 of getting Started with Optimizely proof-of-concept (POC) blog series. In the <a href="/posts/optimizely-saas-starter-vercel-demo/" target="_blank">previous post</a>, we explored how to integrate Optimizely SaaS using a Next.js starter app. This time, I will guide you through configuring your SaaS instance to work seamlessly with your local Next.js application. Additionally, we'll cover how to publish seamless content updates from the SaaS instance. By the end of this guide, you'll have a fully functional setup with your local development environment synchronized with your SaaS platform, enabling real-time updates and extended functionality.
 
 ## Prerequisites
 
