@@ -14,14 +14,14 @@ tags:
   - poc
   - nextJS
 ogImage: "https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg"
-description: "This is final part of our Optimizely SaaS CMS proof-of-concept (POC) blog series. In this post, we'will dive into extending a component within the CMS and rendering it in the frontend application. Additionally, we'll explore the workflow of making changes in a feature branch, pushing these changes, and observing the deployment on Vercel with the Vercel Toolbar option."
+description: "This is the final part of our Optimizely SaaS CMS proof-of-concept (POC) blog series. In this post, we'll dive into extending a component within the CMS and rendering it in the frontend application. Additionally, we'll explore the workflow of making changes in a feature branch, pushing these changes, and observing the deployment on Vercel with the Vercel Toolbar option."
 imgSrc: "https://res.cloudinary.com/djsjtqjsp/image/upload/{value}/v1692111971/raghavendra-murthy-blog/optimizely-vector-logo-2021_ufk1de.png"
 readingTime: "8 Mins"
 ---
 
 ![optimizely saas](https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg)
 
-Welcome to the final part of our Optimizely SaaS CMS proof-of-concept (POC) blog series. In the <a href="/posts/optimizely-saas-starter-vercel-poc-part-2/" target="_blank">previous post</a>, we explored how to configure your SaaS instance to integrate with your local Next.js application & content updates made in the SaaS instance are instantly reflected in your local development environment, facilitating a smooth and efficient development process. This time, we'll dive into extending a component within the CMS and rendering it in the frontend application. Additionally, we'll explore the workflow of making changes in a feature branch, pushing these changes, and observing the deployment on Vercel with the Vercel Toolbar option.
+Welcome to the final part of our Optimizely SaaS CMS proof-of-concept (POC) blog series. In the <a href="/posts/optimizely-saas-starter-vercel-poc-part-2/" target="_blank">previous post</a>, we explored how to configure your SaaS instance to integrate with your local Next.js application, where content updates made in the SaaS instance are instantly reflected in your local development environment. This time, we'll dive into extending a component within the CMS and rendering it in the frontend application. Additionally, we'll explore the workflow of making changes in a feature branch, pushing these changes, and observing the deployment on Vercel with the Vercel Toolbar option.
 
 ## Prerequisites
 
@@ -30,10 +30,10 @@ Welcome to the final part of our Optimizely SaaS CMS proof-of-concept (POC) blog
 
 ## CMS - Extending a Blog Post page type with a new property
 
-1. Log in to Optimizely SaaS: Use your Opti ID to log in to the Optimizely CMS.
+1. Log in to Optimizely SaaS
 2. Go to `Settings > Content Types`.
-3. Lets add a new string property called `Reading Time(ReadingTime)` to `Blog post` page type under the `content` tab. Save the changes.
-4. Goto `Settings > Scheduled Jobs` run Optimizely Graph Delta Synchronization job to synchronizes the content changes.
+3. Add a new string property called `Reading Time(ReadingTime)` to `Blog post` page type under the `content` tab. Save the changes.
+4. Go to `Settings > Scheduled Jobs` run `Optimizely Graph Delta Synchronization` job to synchronizes the content changes.
 5. Navigate to `CMS edit > Content tree` select any blog post page and change to All Property view.
 6. Edit the `Reading Time` property, add sample value and publish the changes the changes.
 
@@ -43,17 +43,36 @@ Welcome to the final part of our Optimizely SaaS CMS proof-of-concept (POC) blog
 2. Append the new property `readingTime` to both `getContentById()` & `getContentByPath()` under `BlogPostPageData` fragment GQL queries.
 
 ```javascript
-fragment BlogPostPageData on BlogPostPage { blogTitle: Heading **readingTime: ReadingTime** blogSubtitle: ArticleSubHeading blogImage: BlogPostPromoImage { ...ReferenceData } blogBody: BlogPostBody { json } blogAuthor: ArticleAuthor }
+fragment BlogPostPageData on BlogPostPage {
+  blogTitle: Heading
+  readingTime: ReadingTime
+  blogSubtitle: ArticleSubHeading
+  blogImage: BlogPostPromoImage {
+    ...ReferenceData
+  }
+  blogBody: BlogPostBody {
+    json
+  }
+  blogAuthor: ArticleAuthor
+}
+
 ```
 
 3. Open the `pages/blog-post-page/index.tsx` file.
 4. In the Component definition & destructuring section, extend the new property called `readingTime:time` to the `BlogPostPage` object at the top of the page.
 
 ```javascript
-data: { blogTitle: title, blogImage: image, readingTime:time, blogBody: description, blogAuthor: author, blogSubtitle: subtitle }
+data: {
+  blogTitle: title,
+  blogImage: image,
+  readingTime: time,
+  blogBody: description,
+  blogAuthor: author,
+  blogSubtitle: subtitle
+}
 ```
 
-5. In the CMS editiable rendering structure add a new `<CmsEditable>` component to render the `readingTime` property.
+5. In the CMS editable rendering structure, add a new `<CmsEditable>` component to render the `readingTime` property.
 
 ```javascript
 <CmsEditable
@@ -65,9 +84,9 @@ data: { blogTitle: title, blogImage: image, readingTime:time, blogBody: descript
 </CmsEditable>
 ```
 
-6. Save the changes, run and observe the new property changes in the frontend `https://localhost:3000`.
-7. Log in to Optimizely SaaS where the applicaiton is configurred to use local development environment `https://localhost:3000`
-8. In CMS Edit, go to the any Blog post page and edit the `Reading Time` property using in-line editing feature 🎉
+6. Save the changes, run, and observe the new property changes in the frontend at `https://localhost:3000`.
+7. Log in to Optimizely SaaS where the application is configured to use the local development environment at `https://localhost:3000`.
+8. In CMS Edit, go to any blog post page and edit the `Reading Time` property using the in-line editing feature 🎉.
 
 <video autoplay loop muted="muted" plays-inline="true" class="border border-skin-line">
   <source src="https://res.cloudinary.com/djsjtqjsp/video/upload/v1721745739/raghavendra-murthy-blog/opti-demo_lcmsgz.mp4" type="video/mp4">
@@ -78,14 +97,14 @@ data: { blogTitle: title, blogImage: image, readingTime:time, blogBody: descript
 Vercel's Git integration streamlines the development process by automatically generating Preview Deployments for each pull or merge request on feature branches. This functionality empowers developers to thoroughly evaluate new features and modifications in isolated environments prior to merging with the main branch. The Comments feature facilitates real-time feedback on these preview environments, enhancing collaboration. Additionally, the Vercel Dashboard offers the flexibility to deploy specific commits or the most recent changes from a branch, giving developers precise control over their deployments.
 
 1. Using git, create a new feature branch for the changes made in the previous step.
-2. commit the feature bracnh changes & push the changes to the remote repository.
-3. Navigate to vercel dashboard and select the Project, go to Active Branches to view the new feature branch build in progress.
-4. Conve cuild is completed, the new changes should be automatically deployed to the Vercel feature brach environment with the amazing vercel toolbar.
+2. Commit the feature branch changes and push the changes to the remote repository.
+3. Navigate to the Vercel dashboard, select the project, and go to Active Branches to view the new feature branch build in progress.
+4. Once the build is completed, the new changes should be automatically deployed to the Vercel feature branch environment with the amazing Vercel toolbar.
 
 ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721746272/raghavendra-murthy-blog/vercel-build_v7bgnm.png)
 ![optimizely saas](https://res.cloudinary.com/djsjtqjsp/image/upload/v1721747330/raghavendra-murthy-blog/vercel-toolbar_whxus2.png)
 
-Vercel provides comprehensive support for feature flags and feature branch builds, enhancing the development workflow and enabling safer, more controlled releases. Developers can manage and override feature flags directly from the Vercel Toolbar, which improves collaboration and accelerates workflows. Vercel also integrates seamlessly with existing feature flag providers such as LaunchDarkly, Optimizely, Statsig, and others, allowing for efficient feature management and experimentation.
+**Additional exploration:** Vercel provides comprehensive support for feature flags. Check out their [documentation](https://vercel.com/docs/workflow-collaboration/feature-flags) for more details!
 
 By combining feature flags with feature branch builds, developers can safely experiment, conduct A/B tests, and gradually roll out new features while minimizing risks and improving the overall development process.
 
