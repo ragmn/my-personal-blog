@@ -41,13 +41,12 @@ to explore the vibrant city of Abu Dhabi.
 We decided to make the most of my time in Abu Dhabi. We grabbed our luggage and headed to the airport information desk
 for recommendations. The helpful staff suggested a few must-see places in Abu Dhabi, and off we went to explore.
 
-First stop: Sheikh Zayed Grand Mosque. This architectural masterpiece left me in awe with its stunning white marble, intricate details, and serene atmosphere. wet was the perfect place to reflect on my unexpected events and find inner peace.
+First stop: Sheikh Zayed Grand Mosque. This architectural masterpiece left me in awe with its stunning white marble, intricate details, and serene atmosphere. It was the perfect place to reflect on my unexpected events and find inner peace.
 ![dubai](https://res.cloudinary.com/djsjtqjsp/image/upload/q_auto:low/v1710368261/raghavendra-murthy-blog/travel/dubai/20220529_104957_oy07al.jpg)
 
-Next, we visited the Louvre Abu Dhabi, an art and civilization museum that showcases a diverse collection of artworks from around the world. The exhibits were fascinating, and I lost my thought as we wandered through the galleries.
+After that, we checked out Yas Mall in Abu Dhabi, where we kicked back and did a bit of window shopping. We grabbed some Indian food for lunch. Then, we returned to the hotel to ensure we weren't late for our next adventure.
 
-To end our day, we booked ourselves for a desert safari, where we had a pickup and drop to the hotel room. Desert safari was
-an unexpected ride in the sand desert and a camel ride. Live entertainment and Mediterranean food were refreshing.
+To end our day, we booked ourselves for a desert safari, where we had a pickup and dropped to the hotel room. Desert safari was an unexpected ride in the sand desert, as well as a camel ride. Live entertainment and Mediterranean food were refreshing.
 We returned to the hotel filled with wonderful memories but also quite exhausted. As we settled into bed for some much-
 needed rest, we asked Google to wake us up at 10 PM, not realizing that Google was set to the UK time zone while we
 were in the UAE. ��
