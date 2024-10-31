@@ -90,4 +90,4 @@ In conclusion, Opticon 2024 was not just about showcasing new features of Optimi
 
 I would like to express my heartfelt gratitude to my employer, DEPT, for their unwavering support & sponsorship. Their commitment to my professional growth and the opportunities they provide have been instrumental in my career development.
 
-Additionally, I want to extend a special thank you to **[Sarah Davis](https://www.linkedin.com/in/sarah-davies-7b794222/)** for her amazing support throughout the process. Her dedication and assistance have made a significant difference in my Optimizely learning journey.
+Additionally, I want to extend a special thank you to **[Sarah Davies](https://www.linkedin.com/in/sarah-davies-7b794222/)** for her amazing support throughout the process. Her dedication and assistance have made a significant difference in my Optimizely learning journey.
