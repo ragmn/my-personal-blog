@@ -1,7 +1,7 @@
 ---
 author: Raghavendra Murthy
 pubDatetime: 2024-10-30
-title: Opticonn 2024 London - Key Highlights and Insights
+title: Opticon 2024 London - Key Highlights and Insights
 postSlug: opticon-2024-london
 featured: true
 draft: false
