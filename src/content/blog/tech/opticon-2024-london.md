@@ -9,7 +9,7 @@ categories:
   - Tech
 tags:
   - optimizely
-ogImage: "https://ultimedia.agency/wp-content/uploads/2023/10/optimizely-saas-hero.jpg"
+ogImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OI8sxHPrHnCo0lmqKfvZTk6NgOqC_2Vi4BoqETPkncs-uUzIuT2ZaLw-QrlDpYh9ZN0&usqp=CAU"
 description: "Welcome to Onederland. Discover the key highlights from the Opticon Conference 2024 in London, including the NetSpring acquisition, advancements in Opal AI, and new SaaS , visual builder"
 imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8OI8sxHPrHnCo0lmqKfvZTk6NgOqC_2Vi4BoqETPkncs-uUzIuT2ZaLw-QrlDpYh9ZN0&usqp=CAU"
 readingTime: "5 Mins"
