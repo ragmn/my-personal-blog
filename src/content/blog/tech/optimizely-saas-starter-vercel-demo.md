@@ -3,7 +3,7 @@ author: Raghavendra Murthy
 pubDatetime: 2024-07-17
 title: Getting Started with Optimizely SaaS using Next.js Starter App - Deployment to Vercel
 postSlug: optimizely-saas-starter-vercel-demo
-featured: true
+featured: false
 draft: false
 categories:
   - Tech

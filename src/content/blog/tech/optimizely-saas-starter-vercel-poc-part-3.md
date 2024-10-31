@@ -3,7 +3,7 @@ author: Raghavendra Murthy
 pubDatetime: 2024-07-23
 title: Getting Started with Optimizely SaaS using Next.js Starter App - Extend a component - Part 3
 postSlug: optimizely-saas-starter-vercel-poc-part-3
-featured: true
+featured: false
 draft: false
 categories:
   - Tech
