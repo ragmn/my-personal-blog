@@ -4,7 +4,7 @@ pubDatetime: 2023-03-20
 title: "What is Sandhya Vandanam - A Comprehensive Guide to understand the science and significance of this ancient practice to deepen your spiritual growth🌅✨"
 postSlug: understanding-sandhya-vandanam
 featured: true
-draft: false
+draft: true
 categories:
   - Spiritual
 tags:
